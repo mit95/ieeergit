@@ -1,18 +1,18 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1428157702091">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1428162844368">
   <folder name="css">
     <file name="site_global.css" crc="3763125636"/>
     <file name="master_master.css" crc="3975564517" ref="events:ieee:industrial-visits:index:gallery:about"/>
-    <file name="events.css" crc="429228518" ref="events"/>
+    <file name="events.css" crc="4102769872" ref="events"/>
     <file name="iefonts_events.css" crc="3974268769" ref="events"/>
-    <file name="ieee.css" crc="329557432" ref="ieee"/>
+    <file name="ieee.css" crc="356825511" ref="ieee"/>
     <file name="iefonts_ieee.css" crc="4184078832" ref="ieee"/>
-    <file name="industrial-visits.css" crc="3904494403" ref="industrial-visits"/>
+    <file name="industrial-visits.css" crc="495774930" ref="industrial-visits"/>
     <file name="iefonts_industrial-visits.css" crc="64243305" ref="industrial-visits"/>
-    <file name="index.css" crc="72236326" ref="index"/>
+    <file name="index.css" crc="3920432200" ref="index"/>
     <file name="iefonts_index.css" crc="4133619647" ref="index"/>
-    <file name="gallery.css" crc="87660936" ref="gallery"/>
+    <file name="gallery.css" crc="4159216555" ref="gallery"/>
     <file name="iefonts_gallery.css" crc="174828211" ref="gallery"/>
-    <file name="about.css" crc="139480561" ref="about"/>
+    <file name="about.css" crc="3914322675" ref="about"/>
     <file name="iefonts_about.css" crc="122380353" ref="about"/>
   </folder>
   <folder name="scripts">
@@ -285,10 +285,10 @@
     <file name="social-tw.png" crc="430256806" ref="index"/>
     <file name="instagram.png" crc="4017582988" ref="index"/>
   </folder>
-  <file name="events.html" crc="3946677473" mt="1428145875980" redirect="true"/>
-  <file name="industrial-visits.html" crc="483225322" mt="1428145875981" redirect="true"/>
-  <file name="ieee.html" crc="4146909064" mt="1428145875982" redirect="true"/>
-  <file name="gallery.html" crc="293682466" mt="1428145875983" redirect="true"/>
-  <file name="about.html" crc="4152449516" mt="1428145875984" redirect="true"/>
-  <file name="index.html" crc="93163326" mt="1428145875984" redirect="true"/>
+  <file name="events.html" crc="3946677473" mt="1428162751512" redirect="true"/>
+  <file name="industrial-visits.html" crc="483225322" mt="1428162751514" redirect="true"/>
+  <file name="ieee.html" crc="4146909064" mt="1428162751514" redirect="true"/>
+  <file name="gallery.html" crc="293682466" mt="1428162751514" redirect="true"/>
+  <file name="about.html" crc="4152449516" mt="1428162751516" redirect="true"/>
+  <file name="index.html" crc="93163326" mt="1428162751516" redirect="true"/>
 </manifest>
