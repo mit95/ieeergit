@@ -3,6 +3,11 @@
 	font-family: acme-n4, sans-serif;
 }
 
+.Header,.quote---author
+{
+	font-family: open-sans-n6, sans-serif;
+}
+
 .quote---text,.Events-Content
 {
 	font-family: open-sans-n3, sans-serif;
@@ -33,11 +38,6 @@
 	font-family: source-sans-pro-n4, sans-serif;
 }
 
-.Header,.quote---author,.Headline
-{
-	font-family: open-sans-n6, sans-serif;
-}
-
 #u6457:hover #u6458-4 p
 {
 	font-family: open-sans-n4, sans-serif;
@@ -48,58 +48,8 @@
 	font-family: open-sans-n4, sans-serif;
 }
 
-#u12711-2,#u12711-3,#u12711-5,#u12711-6,#u12711-8,#u12421,#u12834-6,#u12477-6,#u12494-6,#u12671-6,#u12578-6,#u12586-6,#u12594-6,#u12602-6,#u12616-6,#u12618-6,#u12639-6,#u12640-6,#u12655-6,#u12656-6,#u12707-6,#u12672-6,#u12675-7,#u14386-6,#u12696-8,#u14054-4
+#u12711-2,#u12711-3,#u12711-5,#u12711-6,#u12711-8,#u12421,#u12834-6,#u12477-6,#u12494-6,#u12671-6,#u12578-6,#u12586-6,#u12594-6,#u12602-6,#u12616-6,#u12618-6,#u12639-6,#u12640-6,#u12655-6,#u12656-6,#u12707-6,#u12672-6,#u12675-7,#u14386-27,#u12696-8,#u14054-4
 {
 	font-family: open-sans-n4, sans-serif;
-}
-
-#u14488-4
-{
-	font-family: open-sans-n3, sans-serif;
-}
-
-#u14489-4
-{
-	font-family: open-sans-n3, sans-serif;
-}
-
-#u14500-4
-{
-	font-family: open-sans-n3, sans-serif;
-}
-
-#u14501-4
-{
-	font-family: open-sans-n3, sans-serif;
-}
-
-#u14495-4
-{
-	font-family: open-sans-n3, sans-serif;
-}
-
-#u14497-4
-{
-	font-family: open-sans-n3, sans-serif;
-}
-
-#u14496-4
-{
-	font-family: open-sans-n3, sans-serif;
-}
-
-#u14492-4
-{
-	font-family: open-sans-n3, sans-serif;
-}
-
-#u14494-4
-{
-	font-family: open-sans-n3, sans-serif;
-}
-
-#widgetu14487_input,#widgetu14487_prompt,#widgetu14499_input,#widgetu14499_prompt,#widgetu14491_input,#widgetu14491_prompt
-{
-	font-family: open-sans, sans-serif;
 }
 
