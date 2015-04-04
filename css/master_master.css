@@ -1,0 +1,186 @@
+#u6450
+{
+	-pie-box-shadow: 4px 4px 8px #D1D1D1;
+	-moz-box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.18);
+	-webkit-box-shadow: 4px 4px 8px -1px rgba(0, 0, 0, 0.18);
+	box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.18);
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#u11288,#u6448,#pamphletu6453
+{
+	position: fixed;
+}
+
+#u6475
+{
+	position: absolute;
+}
+
+#u6476,#u6479,#u6484,#u6487,#u6483,#u6482
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #29ABE2;
+	position: relative;
+}
+
+#u6455
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u6455:hover
+{
+	border-color: #999999;
+}
+
+#u6457
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u6455.PamphletThumbSelected,#u6457:hover
+{
+	border-color: #999999;
+}
+
+#u6458-4
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u6457:hover #u6458-4 p
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u6457.PamphletThumbSelected #u6458-4 p
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u6459
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u6457.PamphletThumbSelected,#u6459:hover
+{
+	border-color: #999999;
+}
+
+#u6465
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u6459.PamphletThumbSelected,#u6465:hover
+{
+	border-color: #999999;
+}
+
+#u6467
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u6465.PamphletThumbSelected,#u6467:hover
+{
+	border-color: #999999;
+}
+
+#u6461
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u6467.PamphletThumbSelected,#u6461:hover
+{
+	border-color: #999999;
+}
+
+#u6461.PamphletThumbSelected
+{
+	border-color: #999999;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u14034
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+}
+
+#u6477,#u6480,#u6485,#u13414,#u13408,#u13402,#u6454,#u6456-4,#u6460-4,#u6466-4,#u6468-4,#u6462-4,#u14034_align_to_page
+{
+	position: relative;
+}
+
+#u14035-5
+{
+	background-color: transparent;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u14035-2
+{
+	text-align: center;
+}
+
+#u14036-4
+{
+	background-color: transparent;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	color: #FFFFFF;
+	text-align: center;
+	position: relative;
+}
+
+#u14037-4,#u14038-4
+{
+	background-color: transparent;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u14035,#u14037,#u14038
+{
+	color: #FFFFFF;
+}
+

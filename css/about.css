@@ -1,0 +1,1652 @@
+.version.about /* version checker */
+{
+	color: #000008;
+	background-color: #504DF1;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1050px;
+	min-height: 2743px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 76px;
+}
+
+#u6450
+{
+	z-index: 92;
+	height: 75px;
+}
+
+#u6450-bw
+{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	z-index: 92;
+	top: 0px;
+}
+
+#u11288
+{
+	z-index: 95;
+	width: 134px;
+	top: 0px;
+	left: 17px;
+}
+
+#u11288_img
+{
+	padding-right: 1px;
+}
+
+#u6448
+{
+	z-index: 93;
+	width: 165px;
+	top: 0px;
+	left: 160px;
+}
+
+#u6448_img
+{
+	padding-right: 2px;
+	padding-bottom: 2px;
+}
+
+#pamphletu6453
+{
+	z-index: 97;
+	width: 0.01px;
+	height: 58px;
+	padding-bottom: 67px;
+	top: 0px;
+	left: 345px;
+}
+
+#u6475popup
+{
+	z-index: 98;
+}
+
+#u6475
+{
+	width: 95px;
+	top: 75px;
+}
+
+#u6476
+{
+	z-index: 99;
+	width: 95px;
+	height: 50px;
+	margin-right: -10000px;
+}
+
+#u6477
+{
+	z-index: 100;
+	width: 46px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 25px;
+}
+
+#u6479
+{
+	z-index: 102;
+	width: 85px;
+	height: 50px;
+	margin-right: -10000px;
+	left: 95px;
+}
+
+#u6480
+{
+	z-index: 103;
+	width: 45px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 23px;
+}
+
+#u6484
+{
+	z-index: 105;
+	width: 95px;
+	height: 50px;
+	margin-right: -10000px;
+	left: 190px;
+}
+
+#u6485
+{
+	z-index: 106;
+	width: 45px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 25px;
+}
+
+#u6487
+{
+	z-index: 108;
+	width: 95px;
+	height: 55px;
+	margin-right: -10000px;
+	margin-top: -5px;
+	left: 285px;
+}
+
+#u13414
+{
+	z-index: 109;
+	width: 55px;
+	margin-right: -10000px;
+	left: 20px;
+}
+
+#u6483
+{
+	z-index: 111;
+	width: 95px;
+	height: 52px;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: 380px;
+}
+
+#u13408
+{
+	z-index: 112;
+	width: 52px;
+	margin-right: -10000px;
+	left: 21px;
+}
+
+#u6482
+{
+	z-index: 114;
+	width: 95px;
+	height: 52px;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: 475px;
+}
+
+#u13402
+{
+	z-index: 115;
+	width: 45px;
+	margin-right: -10000px;
+	left: 19px;
+}
+
+#u6454
+{
+	z-index: 117;
+	width: 560px;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 5px;
+}
+
+#u6455
+{
+	width: 95px;
+	padding-bottom: 27px;
+	top: -16px;
+	left: -5px;
+}
+
+#u6455:hover
+{
+	margin: 0px;
+}
+
+#u6456-4
+{
+	z-index: 119;
+	width: 85px;
+	min-height: 20px;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 5px;
+}
+
+#u6457
+{
+	width: 95px;
+	padding-bottom: 27px;
+	top: -16px;
+	left: 90px;
+}
+
+#u6455.PamphletThumbSelected,#u6457:hover
+{
+	margin: 0px;
+}
+
+#u6458-4
+{
+	z-index: 124;
+	width: 85px;
+	min-height: 20px;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 5px;
+}
+
+#u6457:hover #u6458-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 20px;
+	margin: 27px -10000px 0px 0px;
+}
+
+#u6457.PamphletThumbSelected #u6458-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 20px;
+	margin: 27px -10000px 0px 0px;
+}
+
+#u6459
+{
+	width: 95px;
+	padding-bottom: 17px;
+	top: -16px;
+	left: 185px;
+}
+
+#u6457.PamphletThumbSelected,#u6459:hover
+{
+	margin: 0px;
+}
+
+#u6460-4
+{
+	z-index: 129;
+	width: 85px;
+	min-height: 20px;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 5px;
+}
+
+#u6465
+{
+	width: 95px;
+	padding-bottom: 27px;
+	top: -16px;
+	left: 280px;
+}
+
+#u6459.PamphletThumbSelected,#u6465:hover
+{
+	margin: 0px;
+}
+
+#u6466-4
+{
+	z-index: 134;
+	width: 85px;
+	min-height: 20px;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 5px;
+}
+
+#u6467
+{
+	width: 95px;
+	padding-bottom: 27px;
+	top: -16px;
+	left: 375px;
+}
+
+#u6465.PamphletThumbSelected,#u6467:hover
+{
+	margin: 0px;
+}
+
+#u6468-4
+{
+	z-index: 139;
+	width: 85px;
+	min-height: 20px;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 5px;
+}
+
+#u6461
+{
+	width: 95px;
+	padding-bottom: 28px;
+	top: -17px;
+	left: 470px;
+}
+
+#u6467.PamphletThumbSelected,#u6461:hover
+{
+	margin: 0px;
+}
+
+#u6461.PamphletThumbSelected
+{
+	margin: 0px;
+}
+
+#u6462-4
+{
+	z-index: 144;
+	width: 85px;
+	min-height: 20px;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 5px;
+}
+
+#pu12710
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u12710
+{
+	z-index: 20;
+	height: 275px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#u12710-bw
+{
+	z-index: 20;
+	height: 275px;
+}
+
+#u12711-11
+{
+	z-index: 23;
+	width: 1089px;
+	min-height: 212px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 79px;
+}
+
+#u12711-2
+{
+	font-size: 30px;
+	text-align: center;
+	line-height: 36px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u12711-3
+{
+	font-size: 30px;
+	line-height: 36px;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#u12711-5,#u12711-6,#u12711-8
+{
+	font-size: 24px;
+	text-align: center;
+	line-height: 29px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u12711-9
+{
+	font-size: 30px;
+	line-height: 36px;
+	font-weight: bold;
+}
+
+#u11313
+{
+	z-index: 34;
+	width: 1102px;
+	height: 1px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 73px;
+	left: 79px;
+}
+
+#u11312
+{
+	z-index: 35;
+	width: 1102px;
+	height: 1px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 252px;
+	left: 79px;
+}
+
+#u12420
+{
+	z-index: 21;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#u12420_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1050px;
+	position: relative;
+	left: -100px;
+	padding-top: 22px;
+	padding-bottom: 36px;
+	margin-bottom: -3px;
+}
+
+#pu12337-3
+{
+	width: 0.01px;
+	left: 321px;
+	position: relative;
+}
+
+#u12337-3
+{
+	z-index: 148;
+	width: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12421-5
+{
+	z-index: 54;
+	width: 267px;
+	min-height: 42px;
+	font-size: 30px;
+	line-height: 36px;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	left: 183px;
+}
+
+#u12421
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+}
+
+#pu12479
+{
+	width: 0.01px;
+	left: 82px;
+	margin-top: 49px;
+	position: relative;
+}
+
+#u12479
+{
+	z-index: 159;
+	width: 261px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/deshmuk%20sir.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u12833
+{
+	z-index: 272;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F9F9F9;
+	background-color: rgba(0, 0, 0, 0.02);
+	padding-bottom: 85px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: -3px;
+	-pie-background: rgba(0, 0, 0, 0.02);
+}
+
+#u12833:hover
+{
+	margin: 1px -10000px -1px 0px;
+	background: #444444 url("../images/ieee%20logo%20finadwfefl-u12833-r-fr.png") no-repeat center top;
+	background-color: rgba(0, 0, 0, 0.73);
+}
+
+.greybox
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background: #FBFBFB url("../images/ieee%20logo%20finadwfefl-u12833-fr.png") no-repeat center bottom;
+	background-color: rgba(82, 95, 95, 0.02);
+}
+
+#u12834-6
+{
+	z-index: 273;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 123px;
+	left: 3px;
+}
+
+.mytitle
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	opacity: 0.02;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=2)";
+	filter: alpha(opacity=2);
+}
+
+#u12428
+{
+	z-index: 151;
+	width: 261px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 279px;
+	background: #FFFFFF url("../images/dsc_1620ppp.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u12463
+{
+	z-index: 152;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FAFDFE;
+	background-color: rgba(41, 171, 226, 0.02);
+	padding-bottom: 85px;
+	position: relative;
+	margin-right: -10000px;
+	left: -1px;
+	-pie-background: rgba(41, 171, 226, 0.02);
+}
+
+#u12463:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #62C1E9 url("../images/ieee%20logo%20finadwfefl-u12833-r-fr.png") no-repeat center top;
+	background-color: rgba(41, 171, 226, 0.73);
+}
+
+#u12477-6
+{
+	z-index: 153;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 123px;
+}
+
+#u12480
+{
+	z-index: 160;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 557px;
+	background: #FFFFFF url("../images/10387502_1039126649447259_7216565971788072321_n.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u12493
+{
+	z-index: 162;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F9FBFB;
+	background-color: rgba(0, 98, 55, 0.02);
+	padding-bottom: 85px;
+	position: relative;
+	margin-right: -10000px;
+	left: -1px;
+	-pie-background: rgba(0, 98, 55, 0.02);
+}
+
+#u12493:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #428A6B url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(0, 98, 55, 0.74);
+}
+
+#u12494-6
+{
+	z-index: 163;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 123px;
+	left: 1px;
+}
+
+#u12481
+{
+	z-index: 161;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 836px;
+	background: #FFFFFF url("../images/10835173_10152624156197503_5902846143495280087_o.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u12670
+{
+	z-index: 252;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FEFAFB;
+	background-color: rgba(221, 52, 67, 0.02);
+	padding-bottom: 85px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	-pie-background: rgba(221, 52, 67, 0.02);
+}
+
+#u12670:hover
+{
+	margin: 1px -10000px -1px 0px;
+	background: #E56873 url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(221, 52, 67, 0.74);
+}
+
+#u12671-6
+{
+	z-index: 253;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 123px;
+}
+
+#pu12495
+{
+	width: 0.01px;
+	left: 80px;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u12495
+{
+	z-index: 169;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/10347708_1664994063726421_5399499012751261400_n.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u12576
+{
+	z-index: 181;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FEFAFB;
+	background-color: rgba(221, 52, 67, 0.02);
+	padding-bottom: 95px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	-pie-background: rgba(221, 52, 67, 0.02);
+}
+
+#u12576:hover
+{
+	margin: 1px -10000px -1px 0px;
+	background: #E56873 url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(221, 52, 67, 0.74);
+}
+
+#u12578-6
+{
+	z-index: 182;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 113px;
+}
+
+#u12496
+{
+	z-index: 170;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 280px;
+	background: #FFFFFF url("../images/1898286_10202535575406829_1274412274_n.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u12585
+{
+	z-index: 188;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F9FBFB;
+	background-color: rgba(0, 98, 55, 0.02);
+	padding-bottom: 94px;
+	position: relative;
+	margin-right: -10000px;
+	-pie-background: rgba(0, 98, 55, 0.02);
+}
+
+#u12585:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #448C6D url("../images/ieee%20logo%20finadwfefl-u12833-r-fr.png") no-repeat center top;
+	background-color: rgba(0, 98, 55, 0.73);
+}
+
+#u12586-6
+{
+	z-index: 189;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 114px;
+}
+
+#u12497
+{
+	z-index: 171;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 559px;
+	background: #FFFFFF url("../images/1458618_4587314497853_4259006193488474139_n.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u12593
+{
+	z-index: 195;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F9F9F9;
+	background-color: rgba(0, 0, 0, 0.02);
+	padding-bottom: 94px;
+	position: relative;
+	margin-right: -10000px;
+	-pie-background: rgba(0, 0, 0, 0.02);
+}
+
+#u12593:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #424242 url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(0, 0, 0, 0.74);
+}
+
+#u12594-6
+{
+	z-index: 196;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 114px;
+	left: -1px;
+}
+
+#u12498
+{
+	z-index: 172;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 838px;
+	background: #FFFFFF url("../images/dsc_1612ppp.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u12601
+{
+	z-index: 202;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FAFDFE;
+	background-color: rgba(41, 171, 226, 0.02);
+	padding-bottom: 94px;
+	position: relative;
+	margin-right: -10000px;
+	-pie-background: rgba(41, 171, 226, 0.02);
+}
+
+#u12601:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #60C0E9 url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(41, 171, 226, 0.74);
+}
+
+#u12602-6
+{
+	z-index: 203;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 114px;
+}
+
+#u12499
+{
+	z-index: 173;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	background: #FFFFFF url("../images/dsc_1613ppp.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u12615
+{
+	z-index: 209;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F9F9F9;
+	background-color: rgba(0, 0, 0, 0.02);
+	padding-bottom: 104px;
+	position: relative;
+	margin-right: -10000px;
+	-pie-background: rgba(0, 0, 0, 0.02);
+}
+
+#u12615:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #424242 url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(0, 0, 0, 0.74);
+}
+
+#u12616-6
+{
+	z-index: 210;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 104px;
+	left: 1px;
+}
+
+#u12500
+{
+	z-index: 174;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 280px;
+	background: #FFFFFF url("../images/dsc_1610ppp.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u12617
+{
+	z-index: 216;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F9FBFB;
+	background-color: rgba(0, 104, 55, 0.02);
+	padding-bottom: 104px;
+	position: relative;
+	margin-right: -10000px;
+	left: -1px;
+	-pie-background: rgba(0, 104, 55, 0.02);
+}
+
+#u12617:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #428A6B url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(0, 98, 55, 0.74);
+}
+
+#u12618-6
+{
+	z-index: 217;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 104px;
+	left: 1px;
+}
+
+#u12503
+{
+	z-index: 177;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 559px;
+	background: #FFFFFF url("../images/dsc_1606ppp.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u12637
+{
+	z-index: 223;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FAFDFE;
+	background-color: rgba(41, 171, 226, 0.02);
+	padding-bottom: 104px;
+	position: relative;
+	margin-right: -10000px;
+	-pie-background: rgba(41, 171, 226, 0.02);
+}
+
+#u12637:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #60C0E9 url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(41, 171, 226, 0.74);
+}
+
+#u12639-6
+{
+	z-index: 225;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 104px;
+	left: -1px;
+}
+
+#u12504
+{
+	z-index: 178;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 838px;
+	background: #FFFFFF url("../images/1970955_10201963038583998_1280625932_n.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u12638
+{
+	z-index: 224;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FEFAFB;
+	background-color: rgba(221, 52, 67, 0.02);
+	padding-bottom: 104px;
+	position: relative;
+	margin-right: -10000px;
+	-pie-background: rgba(221, 52, 67, 0.02);
+}
+
+#u12638:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #E56873 url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(221, 52, 67, 0.74);
+}
+
+#u12640-6
+{
+	z-index: 231;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 104px;
+}
+
+#pu12499,#pu12501
+{
+	width: 0.01px;
+	left: 80px;
+	margin-top: 17px;
+	position: relative;
+}
+
+#u12501
+{
+	z-index: 175;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/10246247_10205979181265562_4731810896046967895_n.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u12654
+{
+	z-index: 238;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FEFAFB;
+	background-color: rgba(221, 52, 67, 0.02);
+	padding-bottom: 103px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	-pie-background: rgba(221, 52, 67, 0.02);
+}
+
+#u12654:hover
+{
+	margin: -1px -10000px 0px 0px;
+	background: #E56873 url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(221, 52, 67, 0.74);
+}
+
+#u12655-6
+{
+	z-index: 239;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 105px;
+}
+
+#u12502
+{
+	z-index: 176;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 281px;
+	background: #FFFFFF url("../images/dsc_1609ppp.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u12653
+{
+	z-index: 237;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F9FCFD;
+	background-color: rgba(0, 113, 188, 0.02);
+	padding-bottom: 103px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	-pie-background: rgba(0, 113, 188, 0.02);
+}
+
+#u12653:hover
+{
+	margin: -1px -10000px 0px 0px;
+	background: #4295CD url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(0, 113, 188, 0.74);
+}
+
+#u12656-6
+{
+	z-index: 245;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 105px;
+	left: -1px;
+}
+
+#u12505
+{
+	z-index: 179;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 559px;
+	background: #FFFFFF url("../images/img-20150127-wa001267776.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u12705
+{
+	z-index: 265;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FEFAFB;
+	background-color: rgba(221, 52, 67, 0.02);
+	padding-bottom: 104px;
+	position: relative;
+	margin-right: -10000px;
+	-pie-background: rgba(221, 52, 67, 0.02);
+}
+
+#u12705:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #E56873 url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(221, 52, 67, 0.74);
+}
+
+#u12707-6
+{
+	z-index: 266;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 104px;
+}
+
+#u12506
+{
+	z-index: 180;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 838px;
+	background: #FFFFFF url("../images/img-20150126-wa0013.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u12669
+{
+	z-index: 251;
+	width: 263px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F9F9F9;
+	background-color: rgba(0, 0, 0, 0.02);
+	padding-bottom: 103px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 1px;
+	-pie-background: rgba(0, 0, 0, 0.02);
+}
+
+#u12669:hover
+{
+	margin: -1px -10000px 0px 0px;
+	background: #424242 url("../images/ieee%20logo%20finadwfefl-u12493-r-fr.png") no-repeat center top;
+	background-color: rgba(0, 0, 0, 0.74);
+}
+
+#u12672-6
+{
+	z-index: 259;
+	width: 263px;
+	min-height: 35px;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 105px;
+}
+
+#u12420-bw
+{
+	z-index: 21;
+	margin-top: -3px;
+	height: 1223px;
+}
+
+#pu11297
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: -1px;
+}
+
+#u11297
+{
+	z-index: 22;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding-bottom: 8px;
+}
+
+#u11297_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1050px;
+	position: relative;
+	left: -100px;
+}
+
+#u12675-7
+{
+	z-index: 44;
+	width: 303px;
+	min-height: 326px;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 42px;
+	left: 109px;
+}
+
+#u12697
+{
+	z-index: 52;
+	width: 1px;
+	height: 413px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 417px;
+}
+
+#u14386-27
+{
+	z-index: 65;
+	width: 368px;
+	min-height: 387px;
+	color: #000000;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 41px;
+	left: 428px;
+}
+
+#u14386-2
+{
+	font-size: 30px;
+	line-height: 36px;
+	font-weight: 700;
+}
+
+#u14386-3,#u14386-5,#u14386-7,#u14386-9,#u14386-10,#u14386-11,#u14386-13,#u14386-15,#u14386-17,#u14386-18,#u14386-19,#u14386-21,#u14386-23,#u14386-25
+{
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: 400;
+}
+
+#u12698
+{
+	z-index: 51;
+	width: 1px;
+	height: 413px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 804px;
+}
+
+#u12696-8
+{
+	z-index: 36;
+	width: 331px;
+	min-height: 350px;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 41px;
+	left: 819px;
+}
+
+#u12675-2,#u12696-2
+{
+	font-size: 30px;
+	text-align: center;
+	line-height: 36px;
+	font-weight: 700;
+}
+
+#u12675-3,#u12696-3
+{
+	font-size: 20px;
+	text-align: center;
+	line-height: 24px;
+	font-weight: 400;
+}
+
+#u12675-5,#u12696-5
+{
+	font-size: 20px;
+	text-align: left;
+	line-height: 24px;
+	font-weight: 400;
+}
+
+#u12696-6
+{
+	font-size: 30px;
+	text-align: left;
+	line-height: 36px;
+	font-weight: 400;
+}
+
+#u11297-bw
+{
+	z-index: 22;
+	height: 449px;
+}
+
+#u12673
+{
+	z-index: 53;
+	width: 1098px;
+	height: 1px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 80px;
+}
+
+#u13128
+{
+	z-index: 59;
+	width: 1098px;
+	height: 1px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 438px;
+	left: 80px;
+}
+
+#u14054-4
+{
+	z-index: 60;
+	width: 642px;
+	min-height: 32px;
+	color: #000000;
+	font-size: 30px;
+	line-height: 36px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	margin-left: 200px;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#u14136
+{
+	z-index: 64;
+	min-height: 510px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u14136-bw
+{
+	z-index: 64;
+	min-height: 510px;
+	margin-top: 19px;
+	height: 510px;
+}
+
+#u14034
+{
+	z-index: 2;
+	padding-bottom: 0px;
+}
+
+#u14034_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1050px;
+	left: -100px;
+	padding-top: 24px;
+	padding-bottom: 10px;
+}
+
+#u14035-5
+{
+	z-index: 3;
+	width: 1037px;
+	min-height: 20px;
+	left: 107px;
+}
+
+#u14036-4
+{
+	z-index: 8;
+	width: 856px;
+	min-height: 21px;
+	left: 214px;
+}
+
+#u14037-4
+{
+	z-index: 12;
+	width: 865px;
+	min-height: 26px;
+	left: 193px;
+	margin-top: 20px;
+}
+
+#u14038-4
+{
+	z-index: 16;
+	width: 483px;
+	min-height: 24px;
+	left: 445px;
+	margin-top: 19px;
+}
+
+#u14034-bw
+{
+	z-index: 2;
+	height: 178px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1050px;
+}
+

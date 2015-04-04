@@ -1,0 +1,294 @@
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1428157702091">
+  <folder name="css">
+    <file name="site_global.css" crc="3763125636"/>
+    <file name="master_master.css" crc="3975564517" ref="events:ieee:industrial-visits:index:gallery:about"/>
+    <file name="events.css" crc="429228518" ref="events"/>
+    <file name="iefonts_events.css" crc="3974268769" ref="events"/>
+    <file name="ieee.css" crc="329557432" ref="ieee"/>
+    <file name="iefonts_ieee.css" crc="4184078832" ref="ieee"/>
+    <file name="industrial-visits.css" crc="3904494403" ref="industrial-visits"/>
+    <file name="iefonts_industrial-visits.css" crc="64243305" ref="industrial-visits"/>
+    <file name="index.css" crc="72236326" ref="index"/>
+    <file name="iefonts_index.css" crc="4133619647" ref="index"/>
+    <file name="gallery.css" crc="87660936" ref="gallery"/>
+    <file name="iefonts_gallery.css" crc="174828211" ref="gallery"/>
+    <file name="about.css" crc="139480561" ref="about"/>
+    <file name="iefonts_about.css" crc="122380353" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="museutils.js" crc="212726984" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="events:about:index"/>
+    <file name="pie.js" crc="3827607177" ref="events:ieee:gallery:about:index"/>
+    <file name="jquery.scrolleffects.js" crc="519931148" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="webpro.js" crc="114405901" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="musewpslideshow.js" crc="3797706250" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="jquery.museoverlay.js" crc="254250306" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="touchswipe.js" crc="12843993" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="musewpdisclosure.js" crc="4130026270" ref="ieee"/>
+  </folder>
+  <folder name="images">
+    <file name="bg2-u1421-fr.png" crc="3880857659" ref="events"/>
+    <file name="energy-u1698-fr.jpg" crc="173736287" ref="events"/>
+    <file name="energy-u1698-r-fr.jpg" crc="336089823" ref="events"/>
+    <file name="heading-icon-u1709.png" crc="443656300" ref="events"/>
+    <file name="energy-ieu1725-fr.png" crc="4045214001" ref="events"/>
+    <file name="energy.jpg" crc="3963909697" ref="events"/>
+    <file name="robo-u1772-fr.jpg" crc="303952643" ref="events"/>
+    <file name="robo-u1772-r-fr.jpg" crc="289469568" ref="events"/>
+    <file name="heading-icon-u1758.png" crc="443656300" ref="events"/>
+    <file name="robo.jpg" crc="3956965018" ref="events"/>
+    <file name="988286_622883314419144_1911386484_n-u1867-fr.jpg" crc="3830896399" ref="events"/>
+    <file name="988286_62288331441914d4_1911386484_n-u1867-r-fr.jpg" crc="3788608504" ref="events"/>
+    <file name="988286_622883314419144_1911386484_n.jpg" crc="83124431" ref="events"/>
+    <file name="heading-icon-u1850.png" crc="443656300" ref="events"/>
+    <file name="20040816.jpg" crc="403887512" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="logo.png" crc="438179525" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="homeico.png" crc="183709386" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="eventsico.png" crc="375490405" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="ivico.png" crc="4062350411" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="ieeeico.png" crc="3777695955" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="galleryico.png" crc="4210921339" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="ieee logo final.png" crc="49451747" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="untitled-1-u3559-fr.png" crc="4157589240" ref="events"/>
+    <file name="photoshop(3)-u4549-fr.png" crc="3982438625" ref="events"/>
+    <file name="photo-u4549-r-fr.jpg" crc="328159645" ref="events"/>
+    <file name="heading-icon-u4537.png" crc="443656300" ref="events"/>
+    <file name="photoshop(3)-ieu4520-fr.png" crc="275144523" ref="events"/>
+    <file name="photoshop(3).png" crc="275144523" ref="events"/>
+    <file name="0f5d3870135339e130085da6b542a717-u4595-fr.jpg" crc="75740942" ref="events"/>
+    <file name="flhove-u4595-r-fr.jpg" crc="4261028" ref="events"/>
+    <file name="heading-icon-u4580.png" crc="443656300" ref="events"/>
+    <file name="0f5d3870135339e130085da6b542a717-ieu4587-fr.png" crc="4055148675" ref="events"/>
+    <file name="0f5d3870135339e130085da6b542a717.jpg" crc="4021009885" ref="events"/>
+    <file name="mario1.jpg" crc="4220371856" ref="events"/>
+    <file name="mario12.jpg" crc="4069661351" ref="events"/>
+    <file name="heading-icon-u4503.png" crc="443656300" ref="events"/>
+    <file name="mario1-ieu4482-fr.png" crc="315360804" ref="events"/>
+    <file name="shutterstock_94478944-u5162-fr.png" crc="499353767" ref="events"/>
+    <file name="da-u5665-fr.jpg" crc="4080041751" ref="events"/>
+    <file name="da-u5665-r-fr.jpg" crc="4267558981" ref="events"/>
+    <file name="heading-icon-u5644.png" crc="443656300" ref="events"/>
+    <file name="da-u5633-fr.jpg" crc="453713903" ref="events"/>
+    <file name="706116-redcris-1399617282-510-640x480-u5709-fr.jpg" crc="189160728" ref="events"/>
+    <file name="706116-redcris-1399617282-510-640x480-u5709-r-fr.jpg" crc="4025046142" ref="events"/>
+    <file name="heading-icon-u5681.png" crc="443656300" ref="events"/>
+    <file name="706116-redcris-1399617282-510-640x480.jpg" crc="3904121102" ref="events"/>
+    <file name="women.jpg" crc="3847981947" ref="events"/>
+    <file name="women2.jpg" crc="191401298" ref="events:gallery"/>
+    <file name="heading-icon-u5619.png" crc="443656300" ref="events"/>
+    <file name="dsc07250.jpg" crc="120430181" ref="industrial-visits"/>
+    <file name="blank.gif" crc="4208392903" ref="industrial-visits:gallery:index"/>
+    <file name="dsc07377.jpg" crc="3984164287" ref="industrial-visits"/>
+    <file name="dsc07417.jpg" crc="294339231" ref="industrial-visits"/>
+    <file name="img-20140108-wa0022.jpg" crc="483528655" ref="industrial-visits"/>
+    <file name="loading.gif" crc="3815509949" ref="industrial-visits:gallery:index"/>
+    <file name="u2690-grad.png" crc="434627599" ref="industrial-visits"/>
+    <file name="6.jpg" crc="489835182" ref="industrial-visits"/>
+    <file name="two.jpg" crc="512133915" ref="industrial-visits"/>
+    <file name="3.jpg" crc="87457442" ref="industrial-visits"/>
+    <file name="4-crop-u13314.jpg" crc="4097728495" ref="industrial-visits"/>
+    <file name="one.jpg" crc="3996977496" ref="industrial-visits"/>
+    <file name="dsc07250434x325.jpg" crc="3872890653" ref="industrial-visits"/>
+    <file name="dsc07417434x325.jpg" crc="13963284" ref="industrial-visits"/>
+    <file name="dsc07330.jpg" crc="37858696" ref="industrial-visits"/>
+    <file name="img-20140108-wa0033.jpg" crc="4156398633" ref="industrial-visits"/>
+    <file name="20131227_095149(1).jpg" crc="3965373375" ref="industrial-visits"/>
+    <file name="3f3f.jpg" crc="4265541436" ref="industrial-visits"/>
+    <file name="3frrf.jpg" crc="14546047" ref="industrial-visits"/>
+    <file name="dscn1067.jpg" crc="4094161407" ref="industrial-visits"/>
+    <file name="dscn1350.jpg" crc="4041494528" ref="industrial-visits"/>
+    <file name="dscn1366.jpg" crc="4282733276" ref="industrial-visits"/>
+    <file name="dscn1651.jpg" crc="18273865" ref="industrial-visits"/>
+    <file name="star_wars_stock_background_by_ahsoka114-d4srsys.jpg" crc="4229293462" ref="ieee"/>
+    <file name="1606921_715619328478875_2014596681_n-crop-u8310.jpg" crc="358031956" ref="gallery"/>
+    <file name="1560485_715619518478856_1857933798_n-crop-u8372.jpg" crc="483654650" ref="gallery"/>
+    <file name="1898196_715624931811648_669258520_n-crop-u8381.jpg" crc="3867007610" ref="gallery"/>
+    <file name="arduino.jpg" crc="393658870" ref="gallery"/>
+    <file name="arduino1.jpg" crc="4130330610" ref="gallery"/>
+    <file name="hey.jpg" crc="115366557" ref="gallery"/>
+    <file name="hey1.jpg" crc="309736182" ref="gallery"/>
+    <file name="robo-crop-u8662.jpg" crc="178799609" ref="gallery"/>
+    <file name="183622_617027581671384_280356814_n.jpg" crc="379922948" ref="gallery"/>
+    <file name="543682_617027695004706_1819947327_n-crop-u8761.jpg" crc="278375320" ref="gallery"/>
+    <file name="970644_617027655004710_1800212976_n-crop-u8770.jpg" crc="198911507" ref="gallery"/>
+    <file name="1000900_617027681671374_1359962162_n-crop-u8779.jpg" crc="4231661005" ref="gallery"/>
+    <file name="1009896_617027575004718_758046746_n-crop-u8788.jpg" crc="4153306172" ref="gallery"/>
+    <file name="1010388_617027585004717_1110088282_n-crop-u8797.jpg" crc="4163729860" ref="gallery"/>
+    <file name="1014297_617027838338025_248832658_n-crop-u8806.jpg" crc="4017806741" ref="gallery"/>
+    <file name="img00036-20120917-1835-crop-u8815.jpg" crc="198288342" ref="gallery"/>
+    <file name="img00037-20120917-1835-crop-u8824.jpg" crc="533674352" ref="gallery"/>
+    <file name="robo1-crop-u8833.jpg" crc="4178504679" ref="gallery"/>
+    <file name="robotics-crop-u8842.jpg" crc="4095184962" ref="gallery"/>
+    <file name="e-crop-u8491.jpg" crc="25273121" ref="gallery"/>
+    <file name="ene-crop-u8570.jpg" crc="393509694" ref="gallery"/>
+    <file name="eneer4-crop-u8579.jpg" crc="4128960356" ref="gallery"/>
+    <file name="ener-crop-u8588.jpg" crc="218512603" ref="gallery"/>
+    <file name="img00266-20130208-1300-crop-u8597.jpg" crc="4161002043" ref="gallery"/>
+    <file name="img00267-20130208-1300-crop-u8606.jpg" crc="365089083" ref="gallery"/>
+    <file name="img00268-20130209-1118-crop-u8615.jpg" crc="525294922" ref="gallery"/>
+    <file name="img00269-20130209-1306-crop-u8624.jpg" crc="4032936248" ref="gallery"/>
+    <file name="img00270-20130209-1314.jpg" crc="340142760" ref="gallery"/>
+    <file name="img00271-20130209-1315 (1)-crop-u8642.jpg" crc="14184306" ref="gallery"/>
+    <file name="1003537_634457473261728_1093982679_n.jpg" crc="118661805" ref="gallery"/>
+    <file name="1175096_634457553261720_22853472_n-crop-u8919.jpg" crc="48681466" ref="gallery"/>
+    <file name="1185288_634457456595063_1304769869_n-crop-u8928.jpg" crc="3795843963" ref="gallery"/>
+    <file name="1185352_634457336595075_1979614631_n.jpg" crc="4196906060" ref="gallery"/>
+    <file name="1186090_634457196595089_200464767_n.jpg" crc="4092869625" ref="gallery"/>
+    <file name="da-crop-u9276.jpg" crc="4083194430" ref="gallery"/>
+    <file name="da1-crop-u9319.jpg" crc="3972205672" ref="gallery"/>
+    <file name="da2-crop-u9328.jpg" crc="392335861" ref="gallery"/>
+    <file name="da3-crop-u9361.jpg" crc="4120377027" ref="gallery"/>
+    <file name="da4-crop-u9370.jpg" crc="3814516632" ref="gallery"/>
+    <file name="da5.jpg" crc="3857398700" ref="gallery"/>
+    <file name="dr-crop-u9235.jpg" crc="4265813017" ref="gallery"/>
+    <file name="dr1-crop-u9430.jpg" crc="281893481" ref="gallery"/>
+    <file name="dr2-crop-u9439.jpg" crc="4092178008" ref="gallery"/>
+    <file name="dr3-crop-u9448.jpg" crc="3990271524" ref="gallery"/>
+    <file name="dr4-crop-u9457.jpg" crc="4075915851" ref="gallery"/>
+    <file name="dr5-crop-u9466.jpg" crc="3821460396" ref="gallery"/>
+    <file name="dr6-crop-u9475.jpg" crc="4092915553" ref="gallery"/>
+    <file name="dr7-crop-u9484.jpg" crc="3996254495" ref="gallery"/>
+    <file name="18684_616965381677604_2006012567_n-crop-u9504.jpg" crc="236182729" ref="gallery"/>
+    <file name="533697_616964925010983_837530690_n.jpg" crc="3957835629" ref="gallery"/>
+    <file name="547380_616966411677501_50591134_n-crop-u9595.jpg" crc="4259687900" ref="gallery"/>
+    <file name="601971_616964915010984_292878461_n-crop-u9604.jpg" crc="4066681573" ref="gallery"/>
+    <file name="971934_616965848344224_1976733488_n-crop-u9613.jpg" crc="65578623" ref="gallery"/>
+    <file name="988302_616965501677592_668165984_n-crop-u9622.jpg" crc="4086219303" ref="gallery"/>
+    <file name="995760_616966028344206_1102853312_n-crop-u9631.jpg" crc="3944487938" ref="gallery"/>
+    <file name="999566_616966001677542_1843423033_n-crop-u9640.jpg" crc="72214320" ref="gallery"/>
+    <file name="1005910_616966238344185_504222359_n-crop-u9649.jpg" crc="3957173601" ref="gallery"/>
+    <file name="1379946_650038941703581_246250207_n-crop-u9658.jpg" crc="3762160609" ref="gallery"/>
+    <file name="1005538_712746188766189_2017977514_n-crop-u9678.jpg" crc="241342867" ref="gallery"/>
+    <file name="1013848_712746105432864_1011374817_n-crop-u9770.jpg" crc="4216406951" ref="gallery"/>
+    <file name="1016566_712746285432846_321551518_n-crop-u9779.jpg" crc="491655205" ref="gallery"/>
+    <file name="1395244_712746165432858_2035761715_n-crop-u9788.jpg" crc="515119186" ref="gallery"/>
+    <file name="1508116_712746355432839_1486686031_n-crop-u9797.jpg" crc="477234248" ref="gallery"/>
+    <file name="1511726_712820088758799_1559553314_n-crop-u9806.jpg" crc="4192173804" ref="gallery"/>
+    <file name="1609870_712820012092140_112647748_n.jpg" crc="193443177" ref="gallery"/>
+    <file name="1622090_712746078766200_2023038439_n.jpg" crc="310179257" ref="gallery"/>
+    <file name="1656000_712746398766168_308968166_n-crop-u9833.jpg" crc="354188861" ref="gallery"/>
+    <file name="1662457_712746242099517_128385002_n-crop-u9842.jpg" crc="3910212476" ref="gallery"/>
+    <file name="1800406_712820148758793_947207218_n-crop-u9851.jpg" crc="479327836" ref="gallery"/>
+    <file name="1897804_712820182092123_1857321257_n-crop-u9860.jpg" crc="69658439" ref="gallery"/>
+    <file name="62310_612923518748457_52318307_n-crop-u10140.jpg" crc="46681794" ref="gallery"/>
+    <file name="74915_612924735415002_1168211851_n-crop-u10212.jpg" crc="224568979" ref="gallery"/>
+    <file name="995937_612926925414783_235024672_n-crop-u10221.jpg" crc="4227046128" ref="gallery"/>
+    <file name="1002769_612927995414676_868661909_n-crop-u10230.jpg" crc="4223166798" ref="gallery"/>
+    <file name="1003480_612923135415162_242586756_n-crop-u10239.jpg" crc="401754525" ref="gallery"/>
+    <file name="1004655_612918445415631_138066093_n-crop-u10248.jpg" crc="3761181111" ref="gallery"/>
+    <file name="1013177_612920318748777_584287411_n-crop-u10257.jpg" crc="339027711" ref="gallery"/>
+    <file name="1044723_612922732081869_1037796704_n-crop-u10266.jpg" crc="254255384" ref="gallery"/>
+    <file name="1507164_749413838432757_8511757251653875890_n.jpg" crc="3798961702" ref="gallery"/>
+    <file name="1538841_749414271766047_8171828875684738011_n-crop-u10378.jpg" crc="514387004" ref="gallery"/>
+    <file name="1779972_749414058432735_8171505333168389340_n.jpg" crc="244372234" ref="gallery"/>
+    <file name="1907314_749413638432777_4074246133003915464_n-crop-u10396.jpg" crc="107201324" ref="gallery"/>
+    <file name="10013024_749414108432730_2024521528804835833_n.jpg" crc="254669883" ref="gallery"/>
+    <file name="10153915_749413895099418_5521326281759298963_n-crop-u10414.jpg" crc="4182730047" ref="gallery"/>
+    <file name="10246368_749414121766062_2456864290356218472_n.jpg" crc="3936954553" ref="gallery"/>
+    <file name="10250217_749413615099446_841937519869534234_n-crop-u10432.jpg" crc="59833911" ref="gallery"/>
+    <file name="10250217_749414018432739_1529897063855029435_n.jpg" crc="4072923241" ref="gallery"/>
+    <file name="10258746_749413708432770_5630161148458435001_n-crop-u10450.jpg" crc="4189989207" ref="gallery"/>
+    <file name="10269593_749413018432839_2897122186077164766_n-crop-u10459.jpg" crc="57371803" ref="gallery"/>
+    <file name="10270529_749413751766099_7355788463999862429_n-crop-u10468.jpg" crc="508512979" ref="gallery"/>
+    <file name="557535_637478006293008_1317626568_n-crop-u10488.jpg" crc="4254483830" ref="gallery"/>
+    <file name="969995_637477349626407_1771657137_n-crop-u10610.jpg" crc="173435749" ref="gallery"/>
+    <file name="970023_637477689626373_329867555_n-crop-u10619.jpg" crc="3920059570" ref="gallery"/>
+    <file name="1004538_637477529626389_108086678_n-crop-u10628.jpg" crc="4093484642" ref="gallery"/>
+    <file name="1005490_637477106293098_1578605473_n-crop-u10637.jpg" crc="4217980203" ref="gallery"/>
+    <file name="1176118_637478466292962_1141328592_n-crop-u10646.jpg" crc="515819986" ref="gallery"/>
+    <file name="1176222_637477556293053_564821459_n-crop-u10655.jpg" crc="232207126" ref="gallery"/>
+    <file name="1185237_637477956293013_388967734_n-crop-u10664.jpg" crc="4219326082" ref="gallery"/>
+    <file name="1185497_637478446292964_1888961200_n-crop-u10673.jpg" crc="368481364" ref="gallery"/>
+    <file name="1185912_637477989626343_1135841970_n-crop-u10682.jpg" crc="358386396" ref="gallery"/>
+    <file name="1185937_637477449626397_434100944_n-crop-u10691.jpg" crc="3867397411" ref="gallery"/>
+    <file name="1186085_637477632959712_1098418536_n-crop-u10700.jpg" crc="4204048320" ref="gallery"/>
+    <file name="1230054_637476386293170_553672553_n-crop-u10709.jpg" crc="4116126730" ref="gallery"/>
+    <file name="1233481_637478472959628_2074028224_n-crop-u10718.jpg" crc="277952246" ref="gallery"/>
+    <file name="1234275_637477812959694_127767753_n-crop-u10727.jpg" crc="3819280254" ref="gallery"/>
+    <file name="1236253_637477902959685_1627476414_n-crop-u10736.jpg" crc="3977387160" ref="gallery"/>
+    <file name="1240173_637476572959818_545378571_n.jpg" crc="4260765415" ref="gallery"/>
+    <file name="1240262_637476872959788_1379845670_n-crop-u10754.jpg" crc="4058443239" ref="gallery"/>
+    <file name="64559_708082205899254_1094841480_n - copy-crop-u10774.jpg" crc="3819210539" ref="gallery"/>
+    <file name="484862_708082202565921_1515102940_n - copy-crop-u10861.jpg" crc="3923968663" ref="gallery"/>
+    <file name="1489136_707638315943643_20245352_n-crop-u10879.jpg" crc="518798946" ref="gallery"/>
+    <file name="1524687_704768532897288_1066337578_n.jpg" crc="409663313" ref="gallery"/>
+    <file name="1545073_707638162610325_1103539336_n-crop-u10906.jpg" crc="53129433" ref="gallery"/>
+    <file name="1545942_707638252610316_1580912519_n-crop-u10915.jpg" crc="4164987312" ref="gallery"/>
+    <file name="1600988_707638132610328_1188916255_n-crop-u10933.jpg" crc="4066745505" ref="gallery"/>
+    <file name="1620632_709534452420696_1666620703_n-crop-u10942.jpg" crc="3841282919" ref="gallery"/>
+    <file name="images-ieu8145-fr.png" crc="4217905790" ref="gallery"/>
+    <file name="images.jpg" crc="3766707187" ref="gallery"/>
+    <file name="images copy-ieu8145-r-fr.png" crc="224511216" ref="gallery"/>
+    <file name="images copy.jpg" crc="3800878963" ref="gallery"/>
+    <file name="robo-u8143-fr.jpg" crc="3763235098" ref="gallery"/>
+    <file name="robo-u8143-r-fr.jpg" crc="4218115985" ref="gallery"/>
+    <file name="energy-u8144-fr.jpg" crc="3900151330" ref="gallery"/>
+    <file name="energy-u8144-r-fr.jpg" crc="255427345" ref="gallery"/>
+    <file name="images (1)-ieu8180-fr.png" crc="136885029" ref="gallery"/>
+    <file name="images (1).jpg" crc="4240792664" ref="gallery"/>
+    <file name="math-ieu8180-r-fr.png" crc="4032385425" ref="gallery"/>
+    <file name="math.jpg" crc="363913388" ref="gallery"/>
+    <file name="da-u9002-fr.jpg" crc="307195630" ref="gallery"/>
+    <file name="da-u9002-r-fr.jpg" crc="3796460206" ref="gallery"/>
+    <file name="706116-redcris-1399617282-510-640x480-u9004-fr.jpg" crc="3973524264" ref="gallery"/>
+    <file name="706116-redcris-1399617282-510-640x480-u9004-r-fr.jpg" crc="279763862" ref="gallery"/>
+    <file name="6-1-u9006-fr.jpg" crc="4188481226" ref="gallery"/>
+    <file name="va-u9006-r-fr.jpg" crc="4136640969" ref="gallery"/>
+    <file name="women-ieu9008-fr.png" crc="4230656475" ref="gallery"/>
+    <file name="women3.jpg" crc="3847981947" ref="gallery"/>
+    <file name="women-ieu9008-r-fr.png" crc="52539223" ref="gallery"/>
+    <file name="images (2)-ieu10062-fr.png" crc="121619283" ref="gallery"/>
+    <file name="images (2).jpg" crc="3952056935" ref="gallery"/>
+    <file name="images (2)-ieu10062-r-fr.png" crc="4282531200" ref="gallery"/>
+    <file name="images (2)2.jpg" crc="59053230" ref="gallery"/>
+    <file name="graduationcap-u10064-fr.jpg" crc="3848221984" ref="gallery"/>
+    <file name="val-u10064-r-fr.jpg" crc="3772940096" ref="gallery"/>
+    <file name="talkitout-ieu10066-fr.png" crc="190590051" ref="gallery"/>
+    <file name="talkitout.jpg" crc="138735700" ref="gallery"/>
+    <file name="talkitout-ieu10066-r-fr.png" crc="3846522724" ref="gallery"/>
+    <file name="talkitout2.jpg" crc="4090437493" ref="gallery"/>
+    <file name="photoshop(3)-u10068-fr.png" crc="18896085" ref="gallery"/>
+    <file name="photo-u10068-r-fr.jpg" crc="184316032" ref="gallery"/>
+    <file name="deshmuk sir.jpg" crc="25545333" ref="about"/>
+    <file name="ieee logo finadwfefl-u12833-fr.png" crc="4291037008" ref="about"/>
+    <file name="ieee logo finadwfefl-u12833-r-fr.png" crc="3762749265" ref="about"/>
+    <file name="dsc_1620ppp.jpg" crc="3778032045" ref="about"/>
+    <file name="10387502_1039126649447259_7216565971788072321_n.jpg" crc="132908287" ref="about"/>
+    <file name="ieee logo finadwfefl-u12493-r-fr.png" crc="4157659682" ref="about"/>
+    <file name="10835173_10152624156197503_5902846143495280087_o.jpg" crc="58175" ref="about"/>
+    <file name="10347708_1664994063726421_5399499012751261400_n.jpg" crc="4218443221" ref="about"/>
+    <file name="1898286_10202535575406829_1274412274_n.jpg" crc="382301830" ref="about"/>
+    <file name="1458618_4587314497853_4259006193488474139_n.jpg" crc="341742122" ref="about"/>
+    <file name="dsc_1612ppp.jpg" crc="267609368" ref="about"/>
+    <file name="dsc_1613ppp.jpg" crc="4095035245" ref="about"/>
+    <file name="dsc_1610ppp.jpg" crc="4119131914" ref="about"/>
+    <file name="dsc_1606ppp.jpg" crc="4280919103" ref="about"/>
+    <file name="1970955_10201963038583998_1280625932_n.jpg" crc="162979054" ref="about"/>
+    <file name="10246247_10205979181265562_4731810896046967895_n.jpg" crc="4146165919" ref="about"/>
+    <file name="dsc_1609ppp.jpg" crc="479347339" ref="about"/>
+    <file name="img-20150127-wa001267776.jpg" crc="429580793" ref="about"/>
+    <file name="img-20150126-wa0013.jpg" crc="145103716" ref="about"/>
+    <file name="1280x800.jpg" crc="4133240497" ref="index"/>
+    <file name="995937_612926925414783_235024672_n-crop-u14181.jpg" crc="4009674052" ref="index"/>
+    <file name="ieee-logo2-crop-u14225.jpg" crc="4262523460" ref="index"/>
+    <file name="1779972_749414058432735_8171505333168389340_n2.jpg" crc="365148969" ref="index"/>
+    <file name="11027958_939662636074542_4466247740315417080_n.jpg" crc="3952571950" ref="index"/>
+    <file name="dscn1584.jpg" crc="4178446091" ref="index"/>
+    <file name="m2.jpg" crc="495030214" ref="index"/>
+    <file name="bg2.jpg" crc="4142774122" ref="index"/>
+    <file name="dsc_1602.jpg" crc="4018107136" ref="index"/>
+    <file name="hey2.jpg" crc="3915897560" ref="index"/>
+    <file name="star_wars_stock_background_by_ahsoka114-d4srsys2.jpg" crc="4229293462" ref="index"/>
+    <file name="socials-face.png" crc="3809006523" ref="index"/>
+    <file name="social-tw.png" crc="430256806" ref="index"/>
+    <file name="instagram.png" crc="4017582988" ref="index"/>
+  </folder>
+  <file name="events.html" crc="3946677473" mt="1428145875980" redirect="true"/>
+  <file name="industrial-visits.html" crc="483225322" mt="1428145875981" redirect="true"/>
+  <file name="ieee.html" crc="4146909064" mt="1428145875982" redirect="true"/>
+  <file name="gallery.html" crc="293682466" mt="1428145875983" redirect="true"/>
+  <file name="about.html" crc="4152449516" mt="1428145875984" redirect="true"/>
+  <file name="index.html" crc="93163326" mt="1428145875984" redirect="true"/>
+</manifest>
