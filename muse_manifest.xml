@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1428187219882">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1428187755979">
   <folder name="phone">
     <folder name="css">
       <file name="master_master.css" crc="4069317885" ref="phone>gallery:phone>industrial-visits:phone>index:phone>events:phone>ieee:phone>about"/>
@@ -6,13 +6,13 @@
       <file name="industrial-visits.css" crc="47936959" ref="phone>industrial-visits"/>
       <file name="index.css" crc="31629663" ref="phone>index"/>
       <file name="events.css" crc="324439430" ref="phone>events"/>
-      <file name="ieee.css" crc="306802784" ref="phone>ieee"/>
+      <file name="ieee.css" crc="24270558" ref="phone>ieee"/>
       <file name="about.css" crc="101193915" ref="phone>about"/>
     </folder>
     <file name="index.html" crc="4272230773" mt="1428187181525" redirect="true"/>
     <file name="events.html" crc="358317920" mt="1428186974568" redirect="true"/>
     <file name="industrial-visits.html" crc="47880909" mt="1428187185630" redirect="true"/>
-    <file name="ieee.html" crc="418811448" mt="1428186974572" redirect="true"/>
+    <file name="ieee.html" crc="239460135" mt="1428187693836" redirect="true"/>
     <file name="gallery.html" crc="87772584" mt="1428186974574" redirect="true"/>
     <file name="about.html" crc="3999775642" mt="1428186974577" redirect="true"/>
   </folder>

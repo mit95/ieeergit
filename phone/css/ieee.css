@@ -1,7 +1,7 @@
 .version.ieee /* version checker */
 {
-	color: #000012;
-	background-color: #497060;
+	color: #000001;
+	background-color: #7256DE;
 }
 
 @-ms-viewport
@@ -234,12 +234,6 @@
 	height: 50px;
 }
 
-#pu15042-73
-{
-	width: 0.01px;
-	margin-top: 1px;
-}
-
 #u15042-73
 {
 	z-index: 54;
@@ -259,6 +253,11 @@
 	font-weight: bold;
 }
 
+#u15042-2,#u15042-15,#u15042-34
+{
+	text-decoration: underline;
+}
+
 #u15042-6,#u15042-7,#u15042-9,#u15042-10,#u15042-12,#u15042-13,#u15042-19,#u15042-20,#u15042-22,#u15042-23,#u15042-25,#u15042-26,#u15042-28,#u15042-29,#u15042-31,#u15042-36,#u15042-38,#u15042-40,#u15042-41,#u15042-43,#u15042-45,#u15042-47,#u15042-49,#u15042-51,#u15042-53,#u15042-55,#u15042-57,#u15042-59,#u15042-61,#u15042-63,#u15042-65,#u15042-66,#u15042-67,#u15042-71
 {
 	font-size: 12px;
@@ -269,52 +268,8 @@
 {
 	z-index: 54;
 	min-height: 1192px;
+	margin-top: 1px;
 	height: 1192px;
-}
-
-#u15043
-{
-	z-index: 127;
-	height: 1px;
-	border-color: #000000;
-	background-color: #000000;
-}
-
-#u15043-bw
-{
-	z-index: 127;
-	margin-top: 295px;
-	height: 1px;
-}
-
-#u15044
-{
-	z-index: 128;
-	height: 1px;
-	border-color: #000000;
-	background-color: #000000;
-}
-
-#u15044-bw
-{
-	z-index: 128;
-	margin-top: 658px;
-	height: 1px;
-}
-
-#u15045
-{
-	z-index: 129;
-	height: 1px;
-	border-color: #000000;
-	background-color: #000000;
-}
-
-#u15045-bw
-{
-	z-index: 129;
-	margin-top: 1132px;
-	height: 1px;
 }
 
 #pu15047-3
@@ -325,7 +280,7 @@
 
 #u15047-3
 {
-	z-index: 130;
+	z-index: 127;
 	width: 2px;
 	min-height: 24px;
 	position: relative;
