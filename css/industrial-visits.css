@@ -1,12 +1,12 @@
 .version.industrial_visits /* version checker */
 {
-	color: #00001D;
-	background-color: #8CECD2;
+	color: #0000F6;
+	background-color: #8EAF54;
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background-color: #000000;
 }
 
 #page
@@ -393,7 +393,7 @@
 	height: 950px;
 	border-style: none;
 	border-color: transparent;
-	background-color: #4F4F4F;
+	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -405,7 +405,7 @@
 	height: 950px;
 	border-style: none;
 	border-color: transparent;
-	background-color: #4F4F4F;
+	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -417,7 +417,7 @@
 	height: 950px;
 	border-style: none;
 	border-color: transparent;
-	background-color: #4F4F4F;
+	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -429,7 +429,7 @@
 	height: 950px;
 	border-style: none;
 	border-color: transparent;
-	background-color: #4F4F4F;
+	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -445,7 +445,6 @@
 	width: 0.01px;
 	height: 42px;
 	padding-bottom: 709px;
-	left: -49px;
 	top: -799px;
 	margin-bottom: -751px;
 	position: relative;
@@ -454,7 +453,7 @@
 #u2679
 {
 	position: absolute;
-	width: 1148px;
+	width: 1050px;
 }
 
 #u2679popup
@@ -465,7 +464,7 @@
 #u2690
 {
 	z-index: 32;
-	width: 1148px;
+	width: 1050px;
 	height: 751px;
 	-pie-box-shadow: none;
 	-moz-box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
@@ -601,13 +600,13 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 180px;
-	left: 524px;
+	left: 470px;
 }
 
 #u2711
 {
 	z-index: 49;
-	width: 1148px;
+	width: 1050px;
 	height: 751px;
 	-pie-box-shadow: none;
 	-moz-box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
@@ -634,8 +633,8 @@
 	height: 325px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 211px;
-	left: 95px;
+	margin-top: 195px;
+	left: 27px;
 }
 
 #u5914
@@ -741,8 +740,8 @@
 	min-height: 500px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 96px;
-	left: 574px;
+	margin-top: 102px;
+	left: 485px;
 }
 
 #u5894-2,#u5894-4,#u5894-6,#u5894-7,#u5894-9,#u5894-11
@@ -757,7 +756,7 @@
 #u2722
 {
 	z-index: 77;
-	width: 1148px;
+	width: 1050px;
 	height: 751px;
 	-pie-box-shadow: none;
 	-moz-box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
@@ -784,8 +783,8 @@
 	height: 336px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 200px;
-	left: 51px;
+	margin-top: 197px;
+	left: 29px;
 }
 
 #u12794
@@ -906,7 +905,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 118px;
-	left: 456px;
+	left: 432px;
 }
 
 #u5894-12,#u12789-2,#u12789-4,#u12789-6,#u12789-8,#u12789-10,#u12789-11,#u12789-13
@@ -925,7 +924,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 20px;
-	left: 140px;
+	left: 91px;
 }
 
 #u2673
