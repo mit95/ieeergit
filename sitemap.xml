@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.ieeergit.in/scripts/form_check.php</loc>
+    <lastmod>2015-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/scripts/form_throttle.php</loc>
+    <lastmod>2015-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/scripts/form-u14486.php</loc>
+    <lastmod>2015-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.ieeergit.in/images/bg2-u1421-fr.png</loc>
     <lastmod>2015-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -1526,6 +1544,36 @@
   </url>
   <url>
     <loc>http://www.ieeergit.in/images/instagram.png</loc>
+    <lastmod>2015-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/slit%20shadow%202%20sharp.png</loc>
+    <lastmod>2015-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/u14498-17.png</loc>
+    <lastmod>2015-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/u14498-17-r.png</loc>
+    <lastmod>2015-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/u14498-17-m.png</loc>
+    <lastmod>2015-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/u14498-17-fs.png</loc>
     <lastmod>2015-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

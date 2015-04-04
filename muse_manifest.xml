@@ -1,6 +1,6 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1428162844368">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1428165160451">
   <folder name="css">
-    <file name="site_global.css" crc="3763125636"/>
+    <file name="site_global.css" crc="209608693"/>
     <file name="master_master.css" crc="3975564517" ref="events:ieee:industrial-visits:index:gallery:about"/>
     <file name="events.css" crc="4102769872" ref="events"/>
     <file name="iefonts_events.css" crc="3974268769" ref="events"/>
@@ -12,8 +12,8 @@
     <file name="iefonts_index.css" crc="4133619647" ref="index"/>
     <file name="gallery.css" crc="4159216555" ref="gallery"/>
     <file name="iefonts_gallery.css" crc="174828211" ref="gallery"/>
-    <file name="about.css" crc="3914322675" ref="about"/>
-    <file name="iefonts_about.css" crc="122380353" ref="about"/>
+    <file name="about.css" crc="326365484" ref="about"/>
+    <file name="iefonts_about.css" crc="142054444" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3850798583" ref="events:industrial-visits:ieee:gallery:about:index"/>
@@ -27,6 +27,9 @@
     <file name="jquery.museoverlay.js" crc="254250306" ref="events:industrial-visits:ieee:gallery:about:index"/>
     <file name="touchswipe.js" crc="12843993" ref="events:industrial-visits:ieee:gallery:about:index"/>
     <file name="musewpdisclosure.js" crc="4130026270" ref="ieee"/>
+    <file name="form_check.php" crc="303526209" ref="about"/>
+    <file name="form_throttle.php" crc="219462772" ref="about"/>
+    <file name="form-u14486.php" crc="4287434512" ref="about"/>
   </folder>
   <folder name="images">
     <file name="bg2-u1421-fr.png" crc="3880857659" ref="events"/>
@@ -284,11 +287,16 @@
     <file name="socials-face.png" crc="3809006523" ref="index"/>
     <file name="social-tw.png" crc="430256806" ref="index"/>
     <file name="instagram.png" crc="4017582988" ref="index"/>
+    <file name="slit shadow 2 sharp.png" crc="510555609" ref="about"/>
+    <file name="u14498-17.png" crc="350913489" ref="about"/>
+    <file name="u14498-17-r.png" crc="4199845022" ref="about"/>
+    <file name="u14498-17-m.png" crc="4162986250" ref="about"/>
+    <file name="u14498-17-fs.png" crc="3828303914" ref="about"/>
   </folder>
   <file name="events.html" crc="3946677473" mt="1428162751512" redirect="true"/>
   <file name="industrial-visits.html" crc="483225322" mt="1428162751514" redirect="true"/>
   <file name="ieee.html" crc="4146909064" mt="1428162751514" redirect="true"/>
   <file name="gallery.html" crc="293682466" mt="1428162751514" redirect="true"/>
-  <file name="about.html" crc="4152449516" mt="1428162751516" redirect="true"/>
+  <file name="about.html" crc="279445625" mt="1428165100843" redirect="true"/>
   <file name="index.html" crc="93163326" mt="1428162751516" redirect="true"/>
 </manifest>
