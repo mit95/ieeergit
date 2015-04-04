@@ -1,7 +1,7 @@
 #u14710-4
 {
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
@@ -147,10 +147,10 @@
 
 #u14712-10
 {
-	color: #FFFFFF;
-	font-size: 10px;
-	line-height: 12px;
 	text-align: center;
+	font-size: 10px;
+	color: #FFFFFF;
+	line-height: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
