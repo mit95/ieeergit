@@ -1,6 +1,23 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1428178748619">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1428187219882">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_master.css" crc="4069317885" ref="phone>gallery:phone>industrial-visits:phone>index:phone>events:phone>ieee:phone>about"/>
+      <file name="gallery.css" crc="493644414" ref="phone>gallery"/>
+      <file name="industrial-visits.css" crc="47936959" ref="phone>industrial-visits"/>
+      <file name="index.css" crc="31629663" ref="phone>index"/>
+      <file name="events.css" crc="324439430" ref="phone>events"/>
+      <file name="ieee.css" crc="306802784" ref="phone>ieee"/>
+      <file name="about.css" crc="101193915" ref="phone>about"/>
+    </folder>
+    <file name="index.html" crc="4272230773" mt="1428187181525" redirect="true"/>
+    <file name="events.html" crc="358317920" mt="1428186974568" redirect="true"/>
+    <file name="industrial-visits.html" crc="47880909" mt="1428187185630" redirect="true"/>
+    <file name="ieee.html" crc="418811448" mt="1428186974572" redirect="true"/>
+    <file name="gallery.html" crc="87772584" mt="1428186974574" redirect="true"/>
+    <file name="about.html" crc="3999775642" mt="1428186974577" redirect="true"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="3763125636"/>
+    <file name="site_global.css" crc="128588915"/>
     <file name="master_master.css" crc="3975564517" ref="events:ieee:industrial-visits:index:gallery:about"/>
     <file name="events.css" crc="4102769872" ref="events"/>
     <file name="iefonts_events.css" crc="3974268769" ref="events"/>
@@ -16,17 +33,20 @@
     <file name="iefonts_about.css" crc="122380353" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="events:industrial-visits:ieee:gallery:about:index"/>
-    <file name="museutils.js" crc="212726984" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="events:industrial-visits:ieee:gallery:about:index:phone>index:phone>events:phone>industrial-visits:phone>ieee:phone>gallery:phone>about"/>
+    <file name="museutils.js" crc="212726984" ref="events:industrial-visits:ieee:gallery:about:index:phone>index:phone>events:phone>industrial-visits:phone>ieee:phone>gallery:phone>about"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="events:about:index"/>
-    <file name="pie.js" crc="3827607177" ref="events:ieee:gallery:about:index:industrial-visits"/>
+    <file name="pie.js" crc="3827607177" ref="events:ieee:gallery:about:index"/>
     <file name="jquery.scrolleffects.js" crc="519931148" ref="events:industrial-visits:ieee:gallery:about:index"/>
-    <file name="jquery.watch.js" crc="4125239756" ref="events:industrial-visits:ieee:gallery:about:index"/>
-    <file name="webpro.js" crc="114405901" ref="events:industrial-visits:ieee:gallery:about:index"/>
-    <file name="musewpslideshow.js" crc="3797706250" ref="events:industrial-visits:ieee:gallery:about:index"/>
-    <file name="jquery.museoverlay.js" crc="254250306" ref="events:industrial-visits:ieee:gallery:about:index"/>
-    <file name="touchswipe.js" crc="12843993" ref="events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="events:industrial-visits:ieee:gallery:about:index:phone>index:phone>events:phone>industrial-visits:phone>ieee:phone>gallery:phone>about"/>
+    <file name="webpro.js" crc="114405901" ref="events:industrial-visits:ieee:gallery:about:index:phone>industrial-visits:phone>gallery"/>
+    <file name="musewpslideshow.js" crc="3797706250" ref="events:industrial-visits:ieee:gallery:about:index:phone>industrial-visits:phone>gallery"/>
+    <file name="jquery.museoverlay.js" crc="254250306" ref="events:industrial-visits:ieee:gallery:about:index:phone>industrial-visits:phone>gallery"/>
+    <file name="touchswipe.js" crc="12843993" ref="events:industrial-visits:ieee:gallery:about:index:phone>industrial-visits:phone>gallery"/>
     <file name="musewpdisclosure.js" crc="4130026270" ref="ieee"/>
+    <file name="jquery.musemenu.js" crc="440295907" ref="phone>index:phone>events:phone>industrial-visits:phone>ieee:phone>gallery:phone>about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>events:phone>industrial-visits:phone>ieee:phone>gallery:phone>about:events:industrial-visits:ieee:gallery:about:index"/>
+    <file name="museredirect.js" crc="3986430445" ref="events:industrial-visits:ieee:gallery:about:index"/>
   </folder>
   <folder name="images">
     <file name="bg2-u1421-fr.png" crc="3880857659" ref="events"/>
@@ -79,11 +99,11 @@
     <file name="women2.jpg" crc="191401298" ref="events:gallery"/>
     <file name="heading-icon-u5619.png" crc="443656300" ref="events"/>
     <file name="dsc07250.jpg" crc="120430181" ref="industrial-visits"/>
-    <file name="blank.gif" crc="4208392903" ref="industrial-visits:gallery:index"/>
+    <file name="blank.gif" crc="4208392903" ref="industrial-visits:gallery:index:phone>industrial-visits:phone>gallery"/>
     <file name="dsc07377.jpg" crc="3984164287" ref="industrial-visits"/>
     <file name="dsc07417.jpg" crc="294339231" ref="industrial-visits"/>
     <file name="img-20140108-wa0022.jpg" crc="483528655" ref="industrial-visits"/>
-    <file name="loading.gif" crc="3815509949" ref="industrial-visits:gallery:index"/>
+    <file name="loading.gif" crc="3815509949" ref="industrial-visits:gallery:index:phone>industrial-visits:phone>gallery"/>
     <file name="u2690-grad.png" crc="434627599" ref="industrial-visits"/>
     <file name="6.jpg" crc="489835182" ref="industrial-visits"/>
     <file name="two.jpg" crc="512133915" ref="industrial-visits"/>
@@ -95,18 +115,18 @@
     <file name="dsc07330.jpg" crc="37858696" ref="industrial-visits"/>
     <file name="img-20140108-wa0033.jpg" crc="4156398633" ref="industrial-visits"/>
     <file name="20131227_095149(1).jpg" crc="3965373375" ref="industrial-visits"/>
-    <file name="3f3f.jpg" crc="4265541436" ref="industrial-visits"/>
-    <file name="3frrf.jpg" crc="14546047" ref="industrial-visits"/>
-    <file name="dscn1067.jpg" crc="4094161407" ref="industrial-visits"/>
-    <file name="dscn1350.jpg" crc="4041494528" ref="industrial-visits"/>
-    <file name="dscn1366.jpg" crc="4282733276" ref="industrial-visits"/>
+    <file name="3f3f.jpg" crc="515315537" ref="phone>industrial-visits"/>
+    <file name="3frrf.jpg" crc="524919347" ref="phone>industrial-visits:phone>gallery"/>
+    <file name="dscn1067.jpg" crc="4150164773" ref="phone>industrial-visits"/>
+    <file name="dscn1350.jpg" crc="3985338715" ref="phone>industrial-visits"/>
+    <file name="dscn1366.jpg" crc="200226316" ref="phone>industrial-visits"/>
     <file name="dscn1651.jpg" crc="18273865" ref="industrial-visits"/>
     <file name="star_wars_stock_background_by_ahsoka114-d4srsys.jpg" crc="4229293462" ref="ieee"/>
     <file name="1606921_715619328478875_2014596681_n-crop-u8310.jpg" crc="358031956" ref="gallery"/>
     <file name="1560485_715619518478856_1857933798_n-crop-u8372.jpg" crc="483654650" ref="gallery"/>
     <file name="1898196_715624931811648_669258520_n-crop-u8381.jpg" crc="3867007610" ref="gallery"/>
     <file name="arduino.jpg" crc="393658870" ref="gallery"/>
-    <file name="arduino1.jpg" crc="4130330610" ref="gallery"/>
+    <file name="arduino1.jpg" crc="4130330610" ref="phone>gallery"/>
     <file name="hey.jpg" crc="115366557" ref="gallery"/>
     <file name="hey1.jpg" crc="309736182" ref="gallery"/>
     <file name="robo-crop-u8662.jpg" crc="178799609" ref="gallery"/>
@@ -184,7 +204,7 @@
     <file name="1538841_749414271766047_8171828875684738011_n-crop-u10378.jpg" crc="514387004" ref="gallery"/>
     <file name="1779972_749414058432735_8171505333168389340_n.jpg" crc="244372234" ref="gallery"/>
     <file name="1907314_749413638432777_4074246133003915464_n-crop-u10396.jpg" crc="107201324" ref="gallery"/>
-    <file name="10013024_749414108432730_2024521528804835833_n.jpg" crc="254669883" ref="gallery"/>
+    <file name="10013024_749414108432730_2024521528804835833_n.jpg" crc="4169311145" ref="phone>gallery"/>
     <file name="10153915_749413895099418_5521326281759298963_n-crop-u10414.jpg" crc="4182730047" ref="gallery"/>
     <file name="10246368_749414121766062_2456864290356218472_n.jpg" crc="3936954553" ref="gallery"/>
     <file name="10250217_749413615099446_841937519869534234_n-crop-u10432.jpg" crc="59833911" ref="gallery"/>
@@ -275,20 +295,48 @@
     <file name="ieee-logo2-crop-u14225.jpg" crc="4262523460" ref="index"/>
     <file name="1779972_749414058432735_8171505333168389340_n2.jpg" crc="365148969" ref="index"/>
     <file name="11027958_939662636074542_4466247740315417080_n.jpg" crc="3952571950" ref="index"/>
-    <file name="dscn1584.jpg" crc="4178446091" ref="index"/>
+    <file name="dscn1584.jpg" crc="4211732916" ref="phone>industrial-visits"/>
     <file name="m2.jpg" crc="495030214" ref="index"/>
     <file name="bg2.jpg" crc="4142774122" ref="index"/>
     <file name="dsc_1602.jpg" crc="4018107136" ref="index"/>
     <file name="hey2.jpg" crc="3915897560" ref="index"/>
     <file name="star_wars_stock_background_by_ahsoka114-d4srsys2.jpg" crc="4229293462" ref="index"/>
-    <file name="socials-face.png" crc="3809006523" ref="index"/>
-    <file name="social-tw.png" crc="430256806" ref="index"/>
-    <file name="instagram.png" crc="4017582988" ref="index"/>
+    <file name="socials-face.png" crc="3942494956" ref="phone>index"/>
+    <file name="social-tw.png" crc="170101579" ref="phone>index"/>
+    <file name="instagram.png" crc="4055364341" ref="phone>index"/>
+    <file name="1606921_715619328478875_2014596681_n.jpg" crc="239710170" ref="phone>gallery"/>
+    <file name="e.jpg" crc="4251552034" ref="phone>gallery"/>
+    <file name="1175096_634457553261720_22853472_n.jpg" crc="390360967" ref="phone>gallery"/>
+    <file name="1005538_712746188766189_2017977514_n.jpg" crc="4204774482" ref="phone>gallery"/>
+    <file name="543682_617027695004706_1819947327_n.jpg" crc="4264668170" ref="phone>gallery"/>
+    <file name="1014297_617027838338025_248832658_n.jpg" crc="299421820" ref="phone>gallery"/>
+    <file name="1234756_634457543261721_287951406_n.jpg" crc="9155799" ref="phone>gallery"/>
+    <file name="1606921_715619328478875_2014596681_n60x45.jpg" crc="116441263" ref="phone>gallery"/>
+    <file name="arduino1-crop-u14794.jpg" crc="119911894" ref="phone>gallery"/>
+    <file name="e60x45.jpg" crc="235102621" ref="phone>gallery"/>
+    <file name="1175096_634457553261720_22853472_n60x47.jpg" crc="90937146" ref="phone>gallery"/>
+    <file name="10013024_749414108432730_2024521528804835833_n-crop-u14840.jpg" crc="3817439484" ref="phone>gallery"/>
+    <file name="1005538_712746188766189_2017977514_n60x45.jpg" crc="3907430179" ref="phone>gallery"/>
+    <file name="3frrf60x45.jpg" crc="4100425138" ref="phone>gallery"/>
+    <file name="543682_617027695004706_1819947327_n60x45.jpg" crc="57448828" ref="phone>gallery"/>
+    <file name="1014297_617027838338025_248832658_n60x45.jpg" crc="4226862842" ref="phone>gallery"/>
+    <file name="1234756_634457543261721_287951406_n-crop-u14915.jpg" crc="154459093" ref="phone>gallery"/>
+    <file name="3f3f2.jpg" crc="4265541436" ref="industrial-visits"/>
+    <file name="3frrf2.jpg" crc="14546047" ref="industrial-visits"/>
+    <file name="dscn10672.jpg" crc="3892404283" ref="industrial-visits"/>
+    <file name="dscn13502.jpg" crc="3867681049" ref="industrial-visits"/>
+    <file name="dscn13662.jpg" crc="4223790385" ref="industrial-visits"/>
+    <file name="arduino12.jpg" crc="4130330610" ref="gallery"/>
+    <file name="10013024_749414108432730_2024521528804835833_n2.jpg" crc="254669883" ref="gallery"/>
+    <file name="dscn15842.jpg" crc="4178446091" ref="index"/>
+    <file name="socials-face2.png" crc="3809006523" ref="index"/>
+    <file name="social-tw2.png" crc="430256806" ref="index"/>
+    <file name="instagram2.png" crc="4017582988" ref="index"/>
   </folder>
-  <file name="events.html" crc="3946677473" mt="1428162751512" redirect="true"/>
-  <file name="industrial-visits.html" crc="3784551417" mt="1428178357037" redirect="true"/>
-  <file name="ieee.html" crc="4146909064" mt="1428162751514" redirect="true"/>
-  <file name="gallery.html" crc="293682466" mt="1428162751514" redirect="true"/>
-  <file name="about.html" crc="4239616244" mt="1428162751516" redirect="true"/>
-  <file name="index.html" crc="93163326" mt="1428162751516" redirect="true"/>
+  <file name="events.html" crc="366676239" mt="1428180731361" redirect="true"/>
+  <file name="industrial-visits.html" crc="458688678" mt="1428187185623" redirect="true"/>
+  <file name="ieee.html" crc="295700187" mt="1428180731564" redirect="true"/>
+  <file name="gallery.html" crc="164282929" mt="1428180731671" redirect="true"/>
+  <file name="about.html" crc="356156576" mt="1428180731771" redirect="true"/>
+  <file name="index.html" crc="529723110" mt="1428180731235" redirect="true"/>
 </manifest>

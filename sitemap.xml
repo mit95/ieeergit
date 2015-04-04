@@ -1531,39 +1531,213 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.ieeergit.in/events.html</loc>
-    <lastmod>2015-04-04</lastmod>
+    <loc>http://www.ieeergit.in/images/1606921_715619328478875_2014596681_n.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/e.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/1175096_634457553261720_22853472_n.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/1005538_712746188766189_2017977514_n.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/543682_617027695004706_1819947327_n.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/1014297_617027838338025_248832658_n.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/1234756_634457543261721_287951406_n.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/1606921_715619328478875_2014596681_n60x45.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/arduino1-crop-u14794.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/e60x45.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/1175096_634457553261720_22853472_n60x47.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/10013024_749414108432730_2024521528804835833_n-crop-u14840.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/1005538_712746188766189_2017977514_n60x45.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/3frrf60x45.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/543682_617027695004706_1819947327_n60x45.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/1014297_617027838338025_248832658_n60x45.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/1234756_634457543261721_287951406_n-crop-u14915.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/3f3f2.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/3frrf2.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/dscn10672.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/dscn13502.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/dscn13662.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/arduino12.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/10013024_749414108432730_2024521528804835833_n2.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/dscn15842.jpg</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/socials-face2.png</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/social-tw2.png</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/images/instagram2.png</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.ieeergit.in/events.html</loc>
+    <lastmod>2015-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.ieeergit.in/phone/events.html"/>
   </url>
   <url>
     <loc>http://www.ieeergit.in/industrial-visits.html</loc>
     <lastmod>2015-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.ieeergit.in/phone/industrial-visits.html"/>
   </url>
   <url>
     <loc>http://www.ieeergit.in/ieee.html</loc>
-    <lastmod>2015-04-04</lastmod>
+    <lastmod>2015-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.ieeergit.in/phone/ieee.html"/>
   </url>
   <url>
     <loc>http://www.ieeergit.in/gallery.html</loc>
-    <lastmod>2015-04-04</lastmod>
+    <lastmod>2015-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.ieeergit.in/phone/gallery.html"/>
   </url>
   <url>
     <loc>http://www.ieeergit.in/about.html</loc>
-    <lastmod>2015-04-04</lastmod>
+    <lastmod>2015-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.ieeergit.in/phone/about.html"/>
   </url>
   <url>
     <loc>http://www.ieeergit.in/index.html</loc>
-    <lastmod>2015-04-04</lastmod>
+    <lastmod>2015-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.ieeergit.in/phone/index.html"/>
   </url>
 </urlset>
