@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1429434672188">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1429477219786">
   <folder name="phone">
     <folder name="css">
       <file name="master_master.css" crc="312603315" ref="phone>gallery:phone>industrial-visits:phone>index:phone>events:phone>ieee:phone>about"/>
@@ -25,7 +25,7 @@
     <file name="iefonts_ieee.css" crc="4139241615" ref="ieee"/>
     <file name="industrial-visits.css" crc="4276979716" ref="industrial-visits"/>
     <file name="iefonts_industrial-visits.css" crc="9623320" ref="industrial-visits"/>
-    <file name="index.css" crc="4194626960" ref="index"/>
+    <file name="index.css" crc="4044536725" ref="index"/>
     <file name="iefonts_index.css" crc="4198693679" ref="index"/>
     <file name="gallery.css" crc="389564142" ref="gallery"/>
     <file name="iefonts_gallery.css" crc="504780597" ref="gallery"/>
@@ -120,13 +120,13 @@
     <file name="dscn1350.jpg" crc="3867681049" ref="phone>industrial-visits:industrial-visits"/>
     <file name="dscn1366.jpg" crc="4223790385" ref="phone>industrial-visits:industrial-visits"/>
     <file name="dscn1651.jpg" crc="18273865" ref="industrial-visits"/>
-    <file name="star_wars_stock_background_by_ahsoka114-d4srsys.jpg" crc="4229293462" ref="ieee"/>
+    <file name="star_wars_stock_background_by_ahsoka114-d4srsys.jpg" crc="4229293462" ref="ieee:index"/>
     <file name="1606921_715619328478875_2014596681_n-crop-u8310.jpg" crc="358031956" ref="gallery"/>
     <file name="1560485_715619518478856_1857933798_n-crop-u8372.jpg" crc="483654650" ref="gallery"/>
     <file name="1898196_715624931811648_669258520_n-crop-u8381.jpg" crc="3867007610" ref="gallery"/>
     <file name="arduino.jpg" crc="393658870" ref="gallery"/>
     <file name="arduino1.jpg" crc="4130330610" ref="phone>gallery:gallery"/>
-    <file name="hey.jpg" crc="115366557" ref="gallery"/>
+    <file name="hey.jpg" crc="3915897560" ref="gallery:index"/>
     <file name="hey1.jpg" crc="309736182" ref="gallery"/>
     <file name="robo-crop-u8662.jpg" crc="178799609" ref="gallery"/>
     <file name="183622_617027581671384_280356814_n.jpg" crc="379922948" ref="gallery"/>
@@ -201,7 +201,7 @@
     <file name="1044723_612922732081869_1037796704_n-crop-u10266.jpg" crc="254255384" ref="gallery"/>
     <file name="1507164_749413838432757_8511757251653875890_n.jpg" crc="3798961702" ref="gallery"/>
     <file name="1538841_749414271766047_8171828875684738011_n-crop-u10378.jpg" crc="514387004" ref="gallery"/>
-    <file name="1779972_749414058432735_8171505333168389340_n.jpg" crc="244372234" ref="gallery"/>
+    <file name="1779972_749414058432735_8171505333168389340_n.jpg" crc="365148969" ref="gallery:index"/>
     <file name="1907314_749413638432777_4074246133003915464_n-crop-u10396.jpg" crc="107201324" ref="gallery"/>
     <file name="10013024_749414108432730_2024521528804835833_n.jpg" crc="254669883" ref="phone>gallery:gallery"/>
     <file name="10153915_749413895099418_5521326281759298963_n-crop-u10414.jpg" crc="4182730047" ref="gallery"/>
@@ -291,14 +291,11 @@
     <file name="img-20150126-wa0013.jpg" crc="145103716" ref="about"/>
     <file name="1280x800.jpg" crc="4133240497" ref="index"/>
     <file name="995937_612926925414783_235024672_n-crop-u14181.jpg" crc="4009674052" ref="index"/>
-    <file name="1779972_749414058432735_8171505333168389340_n2.jpg" crc="365148969" ref="index"/>
     <file name="11027958_939662636074542_4466247740315417080_n.jpg" crc="3952571950" ref="index"/>
     <file name="dscn1584.jpg" crc="4178446091" ref="phone>industrial-visits:index"/>
     <file name="m2.jpg" crc="495030214" ref="index"/>
     <file name="bg2.jpg" crc="4142774122" ref="index"/>
     <file name="dsc_1602.jpg" crc="4018107136" ref="index"/>
-    <file name="hey2.jpg" crc="3915897560" ref="index"/>
-    <file name="star_wars_stock_background_by_ahsoka114-d4srsys2.jpg" crc="4229293462" ref="index"/>
     <file name="socials-face.png" crc="3809006523" ref="phone>index:index"/>
     <file name="social-tw.png" crc="430256806" ref="phone>index:index"/>
     <file name="instagram.png" crc="4017582988" ref="phone>index:index"/>
@@ -327,5 +324,5 @@
   <file name="ieee.html" crc="4249790653" mt="1429434454978" redirect="true"/>
   <file name="gallery.html" crc="4054161552" mt="1429434454979" redirect="true"/>
   <file name="about.html" crc="3954296657" mt="1429434454979" redirect="true"/>
-  <file name="index.html" crc="121752038" mt="1429434454980" redirect="true"/>
+  <file name="index.html" crc="19459952" mt="1429477187924" redirect="true"/>
 </manifest>

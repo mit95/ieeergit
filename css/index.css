@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FA;
-	background-color: #04ED90;
+	color: #0000F1;
+	background-color: #12BB95;
 }
 
 .html
@@ -676,8 +676,8 @@
 	width: 1008px;
 	min-height: 110px;
 	font-size: 40px;
-	color: #29ABE2;
 	line-height: 48px;
+	color: #29ABE2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -689,8 +689,8 @@
 	width: 540px;
 	min-height: 24px;
 	font-size: 16px;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
 	margin-left: 234px;
@@ -718,8 +718,8 @@
 	width: 813px;
 	min-height: 105px;
 	font-size: 40px;
-	color: #29ABE2;
 	line-height: 48px;
+	color: #29ABE2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -731,8 +731,8 @@
 	width: 540px;
 	min-height: 24px;
 	font-size: 16px;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
 	margin-left: 137px;
@@ -760,8 +760,8 @@
 	width: 813px;
 	min-height: 60px;
 	font-size: 40px;
-	color: #29ABE2;
 	line-height: 48px;
+	color: #29ABE2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -773,8 +773,8 @@
 	width: 540px;
 	min-height: 24px;
 	font-size: 16px;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
 	margin-left: 137px;
@@ -803,8 +803,8 @@
 	width: 813px;
 	min-height: 60px;
 	font-size: 40px;
-	color: #29ABE2;
 	line-height: 48px;
+	color: #29ABE2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -816,8 +816,8 @@
 	width: 540px;
 	min-height: 24px;
 	font-size: 16px;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
 	margin-left: 137px;
@@ -851,7 +851,7 @@
 	border-style: none;
 	border-color: transparent;
 	padding-bottom: 68px;
-	background: #FFFFFF url("../images/hey2.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/hey.jpg") no-repeat center center;
 }
 
 #u13040-7
@@ -934,7 +934,7 @@
 	border-style: none;
 	border-color: transparent;
 	padding-bottom: 474px;
-	background: #FFFFFF url("../images/star_wars_stock_background_by_ahsoka114-d4srsys2.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/star_wars_stock_background_by_ahsoka114-d4srsys.jpg") no-repeat center center;
 	background-size: cover;
 }
 
