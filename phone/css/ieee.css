@@ -1,7 +1,7 @@
 .version.ieee /* version checker */
 {
-	color: #000001;
-	background-color: #7256DE;
+	color: #000017;
+	background-color: #5BC5C5;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 348px;
+	min-height: 1304px;
 }
 
 #page_position_content

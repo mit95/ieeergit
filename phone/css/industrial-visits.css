@@ -1,7 +1,7 @@
 .version.industrial_visits /* version checker */
 {
-	color: #000002;
-	background-color: #DB75BF;
+	color: #0000ED;
+	background-color: #1814B4;
 }
 
 @-ms-viewport
@@ -363,9 +363,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	text-align: center;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 83px;
 	left: 350px;

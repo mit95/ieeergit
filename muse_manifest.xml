@@ -1,18 +1,18 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1429477219786">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1438181865851">
   <folder name="phone">
     <folder name="css">
-      <file name="master_master.css" crc="312603315" ref="phone>gallery:phone>industrial-visits:phone>index:phone>events:phone>ieee:phone>about"/>
+      <file name="master_master.css" crc="202432300" ref="phone>gallery:phone>industrial-visits:phone>index:phone>events:phone>ieee:phone>about"/>
       <file name="gallery.css" crc="493644414" ref="phone>gallery"/>
-      <file name="industrial-visits.css" crc="47936959" ref="phone>industrial-visits"/>
+      <file name="industrial-visits.css" crc="3977778356" ref="phone>industrial-visits"/>
       <file name="index.css" crc="444241798" ref="phone>index"/>
       <file name="events.css" crc="324439430" ref="phone>events"/>
-      <file name="ieee.css" crc="24270558" ref="phone>ieee"/>
+      <file name="ieee.css" crc="391890373" ref="phone>ieee"/>
       <file name="about.css" crc="101193915" ref="phone>about"/>
     </folder>
     <file name="index.html" crc="4272230773" mt="1428187181525" redirect="true"/>
     <file name="events.html" crc="358317920" mt="1428186974568" redirect="true"/>
-    <file name="industrial-visits.html" crc="47880909" mt="1428187185630" redirect="true"/>
-    <file name="ieee.html" crc="239460135" mt="1428187693836" redirect="true"/>
+    <file name="industrial-visits.html" crc="47880909" mt="1429785635813" redirect="true"/>
+    <file name="ieee.html" crc="239460135" mt="1429785735867" redirect="true"/>
     <file name="gallery.html" crc="87772584" mt="1428186974574" redirect="true"/>
     <file name="about.html" crc="3999775642" mt="1428186974577" redirect="true"/>
   </folder>
@@ -25,12 +25,12 @@
     <file name="iefonts_ieee.css" crc="4139241615" ref="ieee"/>
     <file name="industrial-visits.css" crc="4276979716" ref="industrial-visits"/>
     <file name="iefonts_industrial-visits.css" crc="9623320" ref="industrial-visits"/>
-    <file name="index.css" crc="4044536725" ref="index"/>
+    <file name="index.css" crc="3982554662" ref="index"/>
     <file name="iefonts_index.css" crc="4198693679" ref="index"/>
     <file name="gallery.css" crc="389564142" ref="gallery"/>
     <file name="iefonts_gallery.css" crc="504780597" ref="gallery"/>
-    <file name="about.css" crc="3982203778" ref="about"/>
-    <file name="iefonts_about.css" crc="4277267797" ref="about"/>
+    <file name="about.css" crc="3868329702" ref="about"/>
+    <file name="iefonts_about.css" crc="3982997248" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3850798583" ref="events:industrial-visits:ieee:gallery:about:index:phone>index:phone>events:phone>industrial-visits:phone>ieee:phone>gallery:phone>about"/>
@@ -114,11 +114,11 @@
     <file name="dsc07330.jpg" crc="37858696" ref="industrial-visits"/>
     <file name="img-20140108-wa0033.jpg" crc="4156398633" ref="industrial-visits"/>
     <file name="20131227_095149(1).jpg" crc="3965373375" ref="industrial-visits"/>
-    <file name="3f3f.jpg" crc="4265541436" ref="phone>industrial-visits:industrial-visits"/>
-    <file name="3frrf.jpg" crc="14546047" ref="phone>industrial-visits:phone>gallery:industrial-visits"/>
-    <file name="dscn1067.jpg" crc="3892404283" ref="phone>industrial-visits:industrial-visits"/>
-    <file name="dscn1350.jpg" crc="3867681049" ref="phone>industrial-visits:industrial-visits"/>
-    <file name="dscn1366.jpg" crc="4223790385" ref="phone>industrial-visits:industrial-visits"/>
+    <file name="3f3f.jpg" crc="515315537" ref="phone>industrial-visits:industrial-visits"/>
+    <file name="3frrf.jpg" crc="524919347" ref="phone>industrial-visits:phone>gallery:industrial-visits"/>
+    <file name="dscn1067.jpg" crc="4150164773" ref="phone>industrial-visits:industrial-visits"/>
+    <file name="dscn1350.jpg" crc="3985338715" ref="phone>industrial-visits:industrial-visits"/>
+    <file name="dscn1366.jpg" crc="200226316" ref="phone>industrial-visits:industrial-visits"/>
     <file name="dscn1651.jpg" crc="18273865" ref="industrial-visits"/>
     <file name="star_wars_stock_background_by_ahsoka114-d4srsys.jpg" crc="4229293462" ref="ieee:index"/>
     <file name="1606921_715619328478875_2014596681_n-crop-u8310.jpg" crc="358031956" ref="gallery"/>
@@ -273,29 +273,13 @@
     <file name="deshmuk sir.jpg" crc="25545333" ref="about"/>
     <file name="ieee logo finadwfefl-u12833-fr.png" crc="4291037008" ref="about"/>
     <file name="ieee logo finadwfefl-u12833-r-fr.png" crc="3762749265" ref="about"/>
-    <file name="dsc_1620ppp.jpg" crc="3778032045" ref="about"/>
-    <file name="10387502_1039126649447259_7216565971788072321_n.jpg" crc="132908287" ref="about"/>
     <file name="ieee logo finadwfefl-u12493-r-fr.png" crc="4157659682" ref="about"/>
-    <file name="10835173_10152624156197503_5902846143495280087_o.jpg" crc="58175" ref="about"/>
-    <file name="10347708_1664994063726421_5399499012751261400_n.jpg" crc="4218443221" ref="about"/>
-    <file name="1898286_10202535575406829_1274412274_n.jpg" crc="382301830" ref="about"/>
-    <file name="1458618_4587314497853_4259006193488474139_n.jpg" crc="341742122" ref="about"/>
-    <file name="dsc_1612ppp.jpg" crc="267609368" ref="about"/>
-    <file name="dsc_1613ppp.jpg" crc="4095035245" ref="about"/>
-    <file name="dsc_1610ppp.jpg" crc="4119131914" ref="about"/>
-    <file name="dsc_1606ppp.jpg" crc="4280919103" ref="about"/>
-    <file name="1970955_10201963038583998_1280625932_n.jpg" crc="162979054" ref="about"/>
-    <file name="10246247_10205979181265562_4731810896046967895_n.jpg" crc="4146165919" ref="about"/>
-    <file name="dsc_1609ppp.jpg" crc="479347339" ref="about"/>
-    <file name="img-20150127-wa001267776.jpg" crc="429580793" ref="about"/>
-    <file name="img-20150126-wa0013.jpg" crc="145103716" ref="about"/>
     <file name="1280x800.jpg" crc="4133240497" ref="index"/>
     <file name="995937_612926925414783_235024672_n-crop-u14181.jpg" crc="4009674052" ref="index"/>
     <file name="11027958_939662636074542_4466247740315417080_n.jpg" crc="3952571950" ref="index"/>
     <file name="dscn1584.jpg" crc="4178446091" ref="phone>industrial-visits:index"/>
     <file name="m2.jpg" crc="495030214" ref="index"/>
     <file name="bg2.jpg" crc="4142774122" ref="index"/>
-    <file name="dsc_1602.jpg" crc="4018107136" ref="index"/>
     <file name="socials-face.png" crc="3809006523" ref="phone>index:index"/>
     <file name="social-tw.png" crc="430256806" ref="phone>index:index"/>
     <file name="instagram.png" crc="4017582988" ref="phone>index:index"/>
@@ -318,11 +302,30 @@
     <file name="1234756_634457543261721_287951406_n-crop-u14915.jpg" crc="3977502030" ref="phone>gallery"/>
     <file name="mug.jpg" crc="486102322" ref="events:industrial-visits:ieee:gallery:about:index"/>
     <file name="blue and white.jpg" crc="80061558" ref="index"/>
+    <file name="jinesh.jpg" crc="250742028" ref="about"/>
+    <file name="screenshot_2015-07-28-17-12-50~2.jpg" crc="229702708" ref="about"/>
+    <file name="img_2056.jpg" crc="113124540" ref="about"/>
+    <file name="screenshot_2015-07-27-21-33-49~2.jpg" crc="324155586" ref="about"/>
+    <file name="screenshot_2015-07-28-23-25-06~2.jpg" crc="4158088214" ref="about"/>
+    <file name="img_20150507_192718.jpg" crc="395023221" ref="about"/>
+    <file name="screenshot_2015-07-28-23-15-58~2.jpg" crc="3852996416" ref="about"/>
+    <file name="img-20150727-wa0015.jpg" crc="190176191" ref="about"/>
+    <file name="screenshot_2015-07-27-22-14-39~2.jpg" crc="3923559095" ref="about"/>
+    <file name="screenshot_2015-07-27-21-39-07~2.jpg" crc="3925060545" ref="about"/>
+    <file name="screenshot_2015-07-27-21-35-48~2.jpg" crc="396261349" ref="about"/>
+    <file name="dscn2735.jpg" crc="4273860056" ref="about"/>
+    <file name="screenshot_2015-07-28-23-23-13~2.jpg" crc="3770858398" ref="about"/>
+    <file name="11411922_704241516386671_560590464576483720_o-1.jpg" crc="411208457" ref="about"/>
+    <file name="screenshot_2015-07-27-21-37-58~2.jpg" crc="3874577716" ref="about"/>
+    <file name="screenshot_2015-07-28-23-26-30~2.jpg" crc="3782103408" ref="about"/>
+    <file name="screenshot_2015-07-28-23-24-18~2.jpg" crc="3914008436" ref="about"/>
+    <file name="screenshot_2015-07-28-23-17-12~2.jpg" crc="418108056" ref="about"/>
+    <file name="screenshot_2015-07-27-22-29-47~2.jpg" crc="123625549" ref="index"/>
   </folder>
   <file name="events.html" crc="4082965879" mt="1429434454976" redirect="true"/>
   <file name="industrial-visits.html" crc="113408983" mt="1429434454977" redirect="true"/>
   <file name="ieee.html" crc="4249790653" mt="1429434454978" redirect="true"/>
   <file name="gallery.html" crc="4054161552" mt="1429434454979" redirect="true"/>
-  <file name="about.html" crc="3954296657" mt="1429434454979" redirect="true"/>
-  <file name="index.html" crc="19459952" mt="1429477187924" redirect="true"/>
+  <file name="about.html" crc="334989225" mt="1438176396573" redirect="true"/>
+  <file name="index.html" crc="4268994242" mt="1438174583701" redirect="true"/>
 </manifest>

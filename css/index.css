@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F1;
-	background-color: #12BB95;
+	color: #0000ED;
+	background-color: #60F626;
 }
 
 .html
@@ -675,8 +675,8 @@
 	z-index: 29;
 	width: 1008px;
 	min-height: 110px;
-	font-size: 40px;
 	line-height: 48px;
+	font-size: 40px;
 	color: #29ABE2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
@@ -688,8 +688,8 @@
 	z-index: 33;
 	width: 540px;
 	min-height: 24px;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
@@ -717,8 +717,8 @@
 	z-index: 38;
 	width: 813px;
 	min-height: 105px;
-	font-size: 40px;
 	line-height: 48px;
+	font-size: 40px;
 	color: #29ABE2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
@@ -730,8 +730,8 @@
 	z-index: 42;
 	width: 540px;
 	min-height: 24px;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
@@ -759,8 +759,8 @@
 	z-index: 47;
 	width: 813px;
 	min-height: 60px;
-	font-size: 40px;
 	line-height: 48px;
+	font-size: 40px;
 	color: #29ABE2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
@@ -772,8 +772,8 @@
 	z-index: 51;
 	width: 540px;
 	min-height: 24px;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
@@ -802,8 +802,8 @@
 	z-index: 56;
 	width: 813px;
 	min-height: 60px;
-	font-size: 40px;
 	line-height: 48px;
+	font-size: 40px;
 	color: #29ABE2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
@@ -815,8 +815,8 @@
 	z-index: 60;
 	width: 540px;
 	min-height: 24px;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
@@ -835,7 +835,7 @@
 	height: 457px;
 	border-style: none;
 	border-color: transparent;
-	background: #FFFFFF url("../images/dsc_1602.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/screenshot_2015-07-27-22-29-47~2.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -952,9 +952,9 @@
 	z-index: 88;
 	width: 278px;
 	min-height: 57px;
+	line-height: 29px;
 	color: #FFFFFF;
 	font-size: 24px;
-	line-height: 29px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
